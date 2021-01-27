@@ -1,2 +1,2 @@
 # verification-app-business-dotnet-doc
-Documentation for the verification app dotnet business logic
+Compiled documentation for VIP2 .NET
