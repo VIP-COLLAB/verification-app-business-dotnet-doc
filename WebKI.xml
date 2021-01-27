@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Blacklist class">
+    <HelpKINode Title="Blacklist Class" Url="html/T_VIP2_Business_Blacklist.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VIP2_Business_Blacklist__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VIP2_Business_Blacklist.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VIP2_Business_Blacklist.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Blacklist.Blacklist constructor" Url="html/M_VIP2_Business_Blacklist__ctor.htm" />
+  <HelpKINode Title="Blacklist.Blacksites property" Url="html/P_VIP2_Business_Blacklist_Blacksites.htm" />
+  <HelpKINode Title="Blacklist.Created_At property" Url="html/P_VIP2_Business_Blacklist_Created_At.htm" />
+  <HelpKINode Title="Blacklist.Created_By property" Url="html/P_VIP2_Business_Blacklist_Created_By.htm" />
+  <HelpKINode Title="Blacklist.Deduplicate method" Url="html/M_VIP2_Business_Blacklist_Deduplicate.htm" />
+  <HelpKINode Title="Blacklist.Delete method" Url="html/M_VIP2_Business_Blacklist_Delete.htm" />
+  <HelpKINode Title="Blacklist.Get_Invalid_Addresses method" Url="html/M_VIP2_Business_Blacklist_Get_Invalid_Addresses.htm" />
+  <HelpKINode Title="Blacklist.ID property" Url="html/P_VIP2_Business_Blacklist_ID.htm" />
+  <HelpKINode Title="Blacklist.Insert method" Url="html/Overload_VIP2_Business_Blacklist_Insert.htm" />
+  <HelpKINode Title="Blacklist.Kind property" Url="html/P_VIP2_Business_Blacklist_Kind.htm" />
+  <HelpKINode Title="Blacklist.Name property" Url="html/P_VIP2_Business_Blacklist_Name.htm" />
+  <HelpKINode Title="Blacklist.Read_Blacklist method" Url="html/M_VIP2_Business_Blacklist_Read_Blacklist.htm" />
+  <HelpKINode Title="Blacklist.Read_Blacklists method" Url="html/M_VIP2_Business_Blacklist_Read_Blacklists.htm" />
+  <HelpKINode Title="Blacklist.State property" Url="html/P_VIP2_Business_Blacklist_State.htm" />
+  <HelpKINode Title="Blacklist.Update method" Url="html/Overload_VIP2_Business_Blacklist_Update.htm" />
+  <HelpKINode Title="Blacklist_Kind class">
+    <HelpKINode Title="Blacklist_Kind Class" Url="html/T_VIP2_Business_Blacklist_Kind.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VIP2_Business_Blacklist_Kind.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Blacklist_Kind.Office property" Url="html/P_VIP2_Business_Blacklist_Kind_Office.htm" />
+  <HelpKINode Title="Blacklist_Kind.Other property" Url="html/P_VIP2_Business_Blacklist_Kind_Other.htm" />
+  <HelpKINode Title="Blacklist_Kind.Post_Ship property" Url="html/P_VIP2_Business_Blacklist_Kind_Post_Ship.htm" />
+  <HelpKINode Title="Blacklist_Kind.Storage property" Url="html/P_VIP2_Business_Blacklist_Kind_Storage.htm" />
+  <HelpKINode Title="Blacksite class">
+    <HelpKINode Title="Blacksite Class" Url="html/T_VIP2_Business_Blacksite.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VIP2_Business_Blacksite__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VIP2_Business_Blacksite.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VIP2_Business_Blacksite.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Blacksite.Blacksite constructor" Url="html/M_VIP2_Business_Blacksite__ctor.htm" />
+  <HelpKINode Title="Blacksite.Delete method" Url="html/M_VIP2_Business_Blacksite_Delete.htm" />
+  <HelpKINode Title="Blacksite.Get_Invalid_Addresses method" Url="html/M_VIP2_Business_Blacksite_Get_Invalid_Addresses.htm" />
+  <HelpKINode Title="Blacksite.ID property" Url="html/P_VIP2_Business_Blacksite_ID.htm" />
+  <HelpKINode Title="Blacksite.Insert method" Url="html/M_VIP2_Business_Blacksite_Insert.htm" />
+  <HelpKINode Title="Blacksite.Invalidated_By property" Url="html/P_VIP2_Business_Blacksite_Invalidated_By.htm" />
+  <HelpKINode Title="Blacksite.List_ID property" Url="html/P_VIP2_Business_Blacksite_List_ID.htm" />
+  <HelpKINode Title="Blacksite.Mixed_Use property" Url="html/P_VIP2_Business_Blacksite_Mixed_Use.htm" />
+  <HelpKINode Title="Blacksite.Name property" Url="html/P_VIP2_Business_Blacksite_Name.htm" />
+  <HelpKINode Title="Blacksite.Normalilzed_Address property" Url="html/P_VIP2_Business_Blacksite_Normalilzed_Address.htm" />
+  <HelpKINode Title="Blacksite.Note property" Url="html/P_VIP2_Business_Blacksite_Note.htm" />
+  <HelpKINode Title="Blacksite.Photo_Updated_On property" Url="html/P_VIP2_Business_Blacksite_Photo_Updated_On.htm" />
+  <HelpKINode Title="Blacksite.Raw_Address property" Url="html/P_VIP2_Business_Blacksite_Raw_Address.htm" />
+  <HelpKINode Title="Blacksite.Read_Blacksite method" Url="html/M_VIP2_Business_Blacksite_Read_Blacksite.htm" />
+  <HelpKINode Title="Blacksite.Read_Blacksites method" Url="html/M_VIP2_Business_Blacksite_Read_Blacksites.htm" />
+  <HelpKINode Title="Blacksite.Update method" Url="html/Overload_VIP2_Business_Blacksite_Update.htm" />
+  <HelpKINode Title="Blacksite.Verified_By property" Url="html/P_VIP2_Business_Blacksite_Verified_By.htm" />
+  <HelpKINode Title="Blacksites property" Url="html/P_VIP2_Business_Blacklist_Blacksites.htm" />
+  <HelpKINode Title="Confirmed property" Url="html/P_VIP2_Business_User_Confirmed.htm" />
+  <HelpKINode Title="Connection property" Url="html/P_VIP2_Business_VIP2Connection_Connection.htm" />
+  <HelpKINode Title="ConnectionString property" Url="html/P_VIP2_Business_VIP2Connection_ConnectionString.htm" />
+  <HelpKINode Title="Created_At property" Url="html/P_VIP2_Business_Blacklist_Created_At.htm" />
+  <HelpKINode Title="Created_By property" Url="html/P_VIP2_Business_Blacklist_Created_By.htm" />
+  <HelpKINode Title="Database property" Url="html/P_VIP2_Business_VIP2Connection_Database.htm" />
+  <HelpKINode Title="Deduplicate method" Url="html/M_VIP2_Business_Blacklist_Deduplicate.htm" />
+  <HelpKINode Title="Delete method">
+    <HelpKINode Title="Blacklist.Delete Method " Url="html/M_VIP2_Business_Blacklist_Delete.htm" />
+    <HelpKINode Title="Blacksite.Delete Method " Url="html/M_VIP2_Business_Blacksite_Delete.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Error property" Url="html/P_VIP2_Business_Query_Result_Error.htm" />
+  <HelpKINode Title="Error_Message property" Url="html/P_VIP2_Business_Query_Result_Error_Message.htm" />
+  <HelpKINode Title="Get_Invalid_Addresses method">
+    <HelpKINode Title="Blacklist.Get_Invalid_Addresses Method " Url="html/M_VIP2_Business_Blacklist_Get_Invalid_Addresses.htm" />
+    <HelpKINode Title="Blacksite.Get_Invalid_Addresses Method " Url="html/M_VIP2_Business_Blacksite_Get_Invalid_Addresses.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ID property">
+    <HelpKINode Title="Blacklist.ID Property " Url="html/P_VIP2_Business_Blacklist_ID.htm" />
+    <HelpKINode Title="Blacksite.ID Property " Url="html/P_VIP2_Business_Blacksite_ID.htm" />
+    <HelpKINode Title="User.ID Property " Url="html/P_VIP2_Business_User_ID.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Insert method">
+    <HelpKINode Title="Blacklist.Insert Method " Url="html/Overload_VIP2_Business_Blacklist_Insert.htm" />
+    <HelpKINode Title="Blacksite.Insert Method " Url="html/M_VIP2_Business_Blacksite_Insert.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Invalidated_By property" Url="html/P_VIP2_Business_Blacksite_Invalidated_By.htm" />
+  <HelpKINode Title="Is_Exporter property" Url="html/P_VIP2_Business_User_Is_Exporter.htm" />
+  <HelpKINode Title="Is_Finalizer property" Url="html/P_VIP2_Business_User_Is_Finalizer.htm" />
+  <HelpKINode Title="Is_Matcher property" Url="html/P_VIP2_Business_User_Is_Matcher.htm" />
+  <HelpKINode Title="Kind property" Url="html/P_VIP2_Business_Blacklist_Kind.htm" />
+  <HelpKINode Title="List_ID property" Url="html/P_VIP2_Business_Blacksite_List_ID.htm" />
+  <HelpKINode Title="Mixed_Use property" Url="html/P_VIP2_Business_Blacksite_Mixed_Use.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="Blacklist.Name Property " Url="html/P_VIP2_Business_Blacklist_Name.htm" />
+    <HelpKINode Title="Blacksite.Name Property " Url="html/P_VIP2_Business_Blacksite_Name.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Normalilzed_Address property" Url="html/P_VIP2_Business_Blacksite_Normalilzed_Address.htm" />
+  <HelpKINode Title="Note property" Url="html/P_VIP2_Business_Blacksite_Note.htm" />
+  <HelpKINode Title="Office property" Url="html/P_VIP2_Business_Blacklist_Kind_Office.htm" />
+  <HelpKINode Title="Other property" Url="html/P_VIP2_Business_Blacklist_Kind_Other.htm" />
+  <HelpKINode Title="Photo_Updated_On property" Url="html/P_VIP2_Business_Blacksite_Photo_Updated_On.htm" />
+  <HelpKINode Title="Post_Ship property" Url="html/P_VIP2_Business_Blacklist_Kind_Post_Ship.htm" />
+  <HelpKINode Title="Query_Result class">
+    <HelpKINode Title="Query_Result Class" Url="html/T_VIP2_Business_Query_Result.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VIP2_Business_Query_Result__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VIP2_Business_Query_Result.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VIP2_Business_Query_Result.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Query_Result.Error property" Url="html/P_VIP2_Business_Query_Result_Error.htm" />
+  <HelpKINode Title="Query_Result.Error_Message property" Url="html/P_VIP2_Business_Query_Result_Error_Message.htm" />
+  <HelpKINode Title="Query_Result.Query_Result constructor" Url="html/M_VIP2_Business_Query_Result__ctor.htm" />
+  <HelpKINode Title="Query_Result.Result property" Url="html/P_VIP2_Business_Query_Result_Result.htm" />
+  <HelpKINode Title="Query_Result.Successful property" Url="html/P_VIP2_Business_Query_Result_Successful.htm" />
+  <HelpKINode Title="Raw_Address property" Url="html/P_VIP2_Business_Blacksite_Raw_Address.htm" />
+  <HelpKINode Title="Read_Blacklist method" Url="html/M_VIP2_Business_Blacklist_Read_Blacklist.htm" />
+  <HelpKINode Title="Read_Blacklists method" Url="html/M_VIP2_Business_Blacklist_Read_Blacklists.htm" />
+  <HelpKINode Title="Read_Blacksite method" Url="html/M_VIP2_Business_Blacksite_Read_Blacksite.htm" />
+  <HelpKINode Title="Read_Blacksites method" Url="html/M_VIP2_Business_Blacksite_Read_Blacksites.htm" />
+  <HelpKINode Title="Read_User method" Url="html/M_VIP2_Business_User_Read_User.htm" />
+  <HelpKINode Title="Read_Users method" Url="html/M_VIP2_Business_User_Read_Users.htm" />
+  <HelpKINode Title="Result property" Url="html/P_VIP2_Business_Query_Result_Result.htm" />
+  <HelpKINode Title="State property" Url="html/P_VIP2_Business_Blacklist_State.htm" />
+  <HelpKINode Title="Storage property" Url="html/P_VIP2_Business_Blacklist_Kind_Storage.htm" />
+  <HelpKINode Title="Successful property" Url="html/P_VIP2_Business_Query_Result_Successful.htm" />
+  <HelpKINode Title="Update method">
+    <HelpKINode Title="Blacklist.Update Method " Url="html/Overload_VIP2_Business_Blacklist_Update.htm" />
+    <HelpKINode Title="Blacksite.Update Method " Url="html/Overload_VIP2_Business_Blacksite_Update.htm" />
+    <HelpKINode Title="User.Update Method " Url="html/Overload_VIP2_Business_User_Update.htm" />
+  </HelpKINode>
+  <HelpKINode Title="User class">
+    <HelpKINode Title="User Class" Url="html/T_VIP2_Business_User.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VIP2_Business_User__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VIP2_Business_User.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VIP2_Business_User.htm" />
+  </HelpKINode>
+  <HelpKINode Title="User.Confirmed property" Url="html/P_VIP2_Business_User_Confirmed.htm" />
+  <HelpKINode Title="User.ID property" Url="html/P_VIP2_Business_User_ID.htm" />
+  <HelpKINode Title="User.Is_Exporter property" Url="html/P_VIP2_Business_User_Is_Exporter.htm" />
+  <HelpKINode Title="User.Is_Finalizer property" Url="html/P_VIP2_Business_User_Is_Finalizer.htm" />
+  <HelpKINode Title="User.Is_Matcher property" Url="html/P_VIP2_Business_User_Is_Matcher.htm" />
+  <HelpKINode Title="User.Read_User method" Url="html/M_VIP2_Business_User_Read_User.htm" />
+  <HelpKINode Title="User.Read_Users method" Url="html/M_VIP2_Business_User_Read_Users.htm" />
+  <HelpKINode Title="User.Update method" Url="html/Overload_VIP2_Business_User_Update.htm" />
+  <HelpKINode Title="User.User constructor" Url="html/M_VIP2_Business_User__ctor.htm" />
+  <HelpKINode Title="User.Username property" Url="html/P_VIP2_Business_User_Username.htm" />
+  <HelpKINode Title="User.Weight property" Url="html/P_VIP2_Business_User_Weight.htm" />
+  <HelpKINode Title="Username property" Url="html/P_VIP2_Business_User_Username.htm" />
+  <HelpKINode Title="Verified_By property" Url="html/P_VIP2_Business_Blacksite_Verified_By.htm" />
+  <HelpKINode Title="VIP2.Business namespace" Url="html/N_VIP2_Business.htm" />
+  <HelpKINode Title="VIP2.Business.Blacklist class" Url="html/T_VIP2_Business_Blacklist.htm" />
+  <HelpKINode Title="VIP2.Business.Blacklist_Kind class" Url="html/T_VIP2_Business_Blacklist_Kind.htm" />
+  <HelpKINode Title="VIP2.Business.Blacksite class" Url="html/T_VIP2_Business_Blacksite.htm" />
+  <HelpKINode Title="VIP2.Business.Query_Result class" Url="html/T_VIP2_Business_Query_Result.htm" />
+  <HelpKINode Title="VIP2.Business.User class" Url="html/T_VIP2_Business_User.htm" />
+  <HelpKINode Title="VIP2.Business.VIP2Connection class" Url="html/T_VIP2_Business_VIP2Connection.htm" />
+  <HelpKINode Title="VIP2Connection class">
+    <HelpKINode Title="VIP2Connection Class" Url="html/T_VIP2_Business_VIP2Connection.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VIP2_Business_VIP2Connection__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VIP2_Business_VIP2Connection.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VIP2_Business_VIP2Connection.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VIP2Connection.Connection property" Url="html/P_VIP2_Business_VIP2Connection_Connection.htm" />
+  <HelpKINode Title="VIP2Connection.ConnectionString property" Url="html/P_VIP2_Business_VIP2Connection_ConnectionString.htm" />
+  <HelpKINode Title="VIP2Connection.Database property" Url="html/P_VIP2_Business_VIP2Connection_Database.htm" />
+  <HelpKINode Title="VIP2Connection.VIP2Connection constructor" Url="html/M_VIP2_Business_VIP2Connection__ctor.htm" />
+  <HelpKINode Title="Weight property" Url="html/P_VIP2_Business_User_Weight.htm" />
+</HelpKI>
