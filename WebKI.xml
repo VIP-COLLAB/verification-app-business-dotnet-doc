@@ -1,5 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
+  <HelpKINode Title="Address_1 property" Url="html/P_VIP2_Business_Voter_Address_1.htm" />
+  <HelpKINode Title="Address_2 property" Url="html/P_VIP2_Business_Voter_Address_2.htm" />
+  <HelpKINode Title="Address_3 property" Url="html/P_VIP2_Business_Voter_Address_3.htm" />
+  <HelpKINode Title="Address_4 property" Url="html/P_VIP2_Business_Voter_Address_4.htm" />
+  <HelpKINode Title="Ballot_Received property" Url="html/P_VIP2_Business_Voter_Ballot_Received.htm" />
+  <HelpKINode Title="Ballot_Requested property" Url="html/P_VIP2_Business_Voter_Ballot_Requested.htm" />
+  <HelpKINode Title="Ballot_Sent property" Url="html/P_VIP2_Business_Voter_Ballot_Sent.htm" />
+  <HelpKINode Title="Birth_Day property" Url="html/P_VIP2_Business_Voter_Birth_Day.htm" />
+  <HelpKINode Title="Birth_Month property" Url="html/P_VIP2_Business_Voter_Birth_Month.htm" />
+  <HelpKINode Title="Birth_Year property" Url="html/P_VIP2_Business_Voter_Birth_Year.htm" />
   <HelpKINode Title="Blacklist class">
     <HelpKINode Title="Blacklist Class" Url="html/T_VIP2_Business_Blacklist.htm" />
     <HelpKINode Title="constructor" Url="html/M_VIP2_Business_Blacklist__ctor.htm" />
@@ -53,19 +63,26 @@
   <HelpKINode Title="Blacksite.Update method" Url="html/Overload_VIP2_Business_Blacksite_Update.htm" />
   <HelpKINode Title="Blacksite.Verified_By property" Url="html/P_VIP2_Business_Blacksite_Verified_By.htm" />
   <HelpKINode Title="Blacksites property" Url="html/P_VIP2_Business_Blacklist_Blacksites.htm" />
+  <HelpKINode Title="City property" Url="html/P_VIP2_Business_Voter_City.htm" />
   <HelpKINode Title="Confirmed property" Url="html/P_VIP2_Business_User_Confirmed.htm" />
   <HelpKINode Title="Connection property" Url="html/P_VIP2_Business_VIP2Connection_Connection.htm" />
   <HelpKINode Title="ConnectionString property" Url="html/P_VIP2_Business_VIP2Connection_ConnectionString.htm" />
+  <HelpKINode Title="County property" Url="html/P_VIP2_Business_Voter_County.htm" />
   <HelpKINode Title="Created_At property" Url="html/P_VIP2_Business_Blacklist_Created_At.htm" />
   <HelpKINode Title="Created_By property" Url="html/P_VIP2_Business_Blacklist_Created_By.htm" />
   <HelpKINode Title="Database property" Url="html/P_VIP2_Business_VIP2Connection_Database.htm" />
+  <HelpKINode Title="Data_Date property" Url="html/P_VIP2_Business_Voter_Data_Date.htm" />
   <HelpKINode Title="Deduplicate method" Url="html/M_VIP2_Business_Blacklist_Deduplicate.htm" />
   <HelpKINode Title="Delete method">
     <HelpKINode Title="Blacklist.Delete Method " Url="html/M_VIP2_Business_Blacklist_Delete.htm" />
     <HelpKINode Title="Blacksite.Delete Method " Url="html/M_VIP2_Business_Blacksite_Delete.htm" />
+    <HelpKINode Title="Voter.Delete Method " Url="html/M_VIP2_Business_Voter_Delete.htm" />
   </HelpKINode>
+  <HelpKINode Title="DOB property" Url="html/P_VIP2_Business_Voter_DOB.htm" />
   <HelpKINode Title="Error property" Url="html/P_VIP2_Business_Query_Result_Error.htm" />
   <HelpKINode Title="Error_Message property" Url="html/P_VIP2_Business_Query_Result_Error_Message.htm" />
+  <HelpKINode Title="First_Name property" Url="html/P_VIP2_Business_Voter_First_Name.htm" />
+  <HelpKINode Title="Gender property" Url="html/P_VIP2_Business_Voter_Gender.htm" />
   <HelpKINode Title="Get_Invalid_Addresses method">
     <HelpKINode Title="Blacklist.Get_Invalid_Addresses Method " Url="html/M_VIP2_Business_Blacklist_Get_Invalid_Addresses.htm" />
     <HelpKINode Title="Blacksite.Get_Invalid_Addresses Method " Url="html/M_VIP2_Business_Blacksite_Get_Invalid_Addresses.htm" />
@@ -74,17 +91,29 @@
     <HelpKINode Title="Blacklist.ID Property " Url="html/P_VIP2_Business_Blacklist_ID.htm" />
     <HelpKINode Title="Blacksite.ID Property " Url="html/P_VIP2_Business_Blacksite_ID.htm" />
     <HelpKINode Title="User.ID Property " Url="html/P_VIP2_Business_User_ID.htm" />
+    <HelpKINode Title="Voter.ID Property " Url="html/P_VIP2_Business_Voter_ID.htm" />
   </HelpKINode>
   <HelpKINode Title="Insert method">
     <HelpKINode Title="Blacklist.Insert Method " Url="html/Overload_VIP2_Business_Blacklist_Insert.htm" />
     <HelpKINode Title="Blacksite.Insert Method " Url="html/M_VIP2_Business_Blacksite_Insert.htm" />
+    <HelpKINode Title="Voter.Insert Method " Url="html/Overload_VIP2_Business_Voter_Insert.htm" />
   </HelpKINode>
   <HelpKINode Title="Invalidated_By property" Url="html/P_VIP2_Business_Blacksite_Invalidated_By.htm" />
   <HelpKINode Title="Is_Exporter property" Url="html/P_VIP2_Business_User_Is_Exporter.htm" />
   <HelpKINode Title="Is_Finalizer property" Url="html/P_VIP2_Business_User_Is_Finalizer.htm" />
   <HelpKINode Title="Is_Matcher property" Url="html/P_VIP2_Business_User_Is_Matcher.htm" />
   <HelpKINode Title="Kind property" Url="html/P_VIP2_Business_Blacklist_Kind.htm" />
+  <HelpKINode Title="Last_Name property" Url="html/P_VIP2_Business_Voter_Last_Name.htm" />
   <HelpKINode Title="List_ID property" Url="html/P_VIP2_Business_Blacksite_List_ID.htm" />
+  <HelpKINode Title="Mail_1 property" Url="html/P_VIP2_Business_Voter_Mail_1.htm" />
+  <HelpKINode Title="Mail_2 property" Url="html/P_VIP2_Business_Voter_Mail_2.htm" />
+  <HelpKINode Title="Mail_3 property" Url="html/P_VIP2_Business_Voter_Mail_3.htm" />
+  <HelpKINode Title="Mail_4 property" Url="html/P_VIP2_Business_Voter_Mail_4.htm" />
+  <HelpKINode Title="Mail_City property" Url="html/P_VIP2_Business_Voter_Mail_City.htm" />
+  <HelpKINode Title="Mail_Country property" Url="html/P_VIP2_Business_Voter_Mail_Country.htm" />
+  <HelpKINode Title="Mail_State property" Url="html/P_VIP2_Business_Voter_Mail_State.htm" />
+  <HelpKINode Title="Mail_Zip property" Url="html/P_VIP2_Business_Voter_Mail_Zip.htm" />
+  <HelpKINode Title="Middle_Name property" Url="html/P_VIP2_Business_Voter_Middle_Name.htm" />
   <HelpKINode Title="Mixed_Use property" Url="html/P_VIP2_Business_Blacksite_Mixed_Use.htm" />
   <HelpKINode Title="Name property">
     <HelpKINode Title="Blacklist.Name Property " Url="html/P_VIP2_Business_Blacklist_Name.htm" />
@@ -96,6 +125,7 @@
   <HelpKINode Title="Other property" Url="html/P_VIP2_Business_Blacklist_Kind_Other.htm" />
   <HelpKINode Title="Photo_Updated_On property" Url="html/P_VIP2_Business_Blacksite_Photo_Updated_On.htm" />
   <HelpKINode Title="Post_Ship property" Url="html/P_VIP2_Business_Blacklist_Kind_Post_Ship.htm" />
+  <HelpKINode Title="Precinct_Ward property" Url="html/P_VIP2_Business_Voter_Precinct_Ward.htm" />
   <HelpKINode Title="Query_Result class">
     <HelpKINode Title="Query_Result Class" Url="html/T_VIP2_Business_Query_Result.htm" />
     <HelpKINode Title="constructor" Url="html/M_VIP2_Business_Query_Result__ctor.htm" />
@@ -114,14 +144,23 @@
   <HelpKINode Title="Read_Blacksites method" Url="html/M_VIP2_Business_Blacksite_Read_Blacksites.htm" />
   <HelpKINode Title="Read_User method" Url="html/M_VIP2_Business_User_Read_User.htm" />
   <HelpKINode Title="Read_Users method" Url="html/M_VIP2_Business_User_Read_Users.htm" />
+  <HelpKINode Title="Read_Voter method" Url="html/M_VIP2_Business_Voter_Read_Voter.htm" />
+  <HelpKINode Title="Read_Voters method" Url="html/M_VIP2_Business_Voter_Read_Voters.htm" />
+  <HelpKINode Title="Registration_Date property" Url="html/P_VIP2_Business_Voter_Registration_Date.htm" />
+  <HelpKINode Title="Reg_Sate property" Url="html/P_VIP2_Business_Voter_Reg_Sate.htm" />
   <HelpKINode Title="Result property" Url="html/P_VIP2_Business_Query_Result_Result.htm" />
-  <HelpKINode Title="State property" Url="html/P_VIP2_Business_Blacklist_State.htm" />
+  <HelpKINode Title="State property">
+    <HelpKINode Title="Blacklist.State Property " Url="html/P_VIP2_Business_Blacklist_State.htm" />
+    <HelpKINode Title="Voter.State Property " Url="html/P_VIP2_Business_Voter_State.htm" />
+  </HelpKINode>
   <HelpKINode Title="Storage property" Url="html/P_VIP2_Business_Blacklist_Kind_Storage.htm" />
   <HelpKINode Title="Successful property" Url="html/P_VIP2_Business_Query_Result_Successful.htm" />
+  <HelpKINode Title="Suffix property" Url="html/P_VIP2_Business_Voter_Suffix.htm" />
   <HelpKINode Title="Update method">
     <HelpKINode Title="Blacklist.Update Method " Url="html/Overload_VIP2_Business_Blacklist_Update.htm" />
     <HelpKINode Title="Blacksite.Update Method " Url="html/Overload_VIP2_Business_Blacksite_Update.htm" />
     <HelpKINode Title="User.Update Method " Url="html/Overload_VIP2_Business_User_Update.htm" />
+    <HelpKINode Title="Voter.Update Method " Url="html/Overload_VIP2_Business_Voter_Update.htm" />
   </HelpKINode>
   <HelpKINode Title="User class">
     <HelpKINode Title="User Class" Url="html/T_VIP2_Business_User.htm" />
@@ -149,6 +188,7 @@
   <HelpKINode Title="VIP2.Business.Query_Result class" Url="html/T_VIP2_Business_Query_Result.htm" />
   <HelpKINode Title="VIP2.Business.User class" Url="html/T_VIP2_Business_User.htm" />
   <HelpKINode Title="VIP2.Business.VIP2Connection class" Url="html/T_VIP2_Business_VIP2Connection.htm" />
+  <HelpKINode Title="VIP2.Business.Voter class" Url="html/T_VIP2_Business_Voter.htm" />
   <HelpKINode Title="VIP2Connection class">
     <HelpKINode Title="VIP2Connection Class" Url="html/T_VIP2_Business_VIP2Connection.htm" />
     <HelpKINode Title="constructor" Url="html/M_VIP2_Business_VIP2Connection__ctor.htm" />
@@ -159,5 +199,57 @@
   <HelpKINode Title="VIP2Connection.ConnectionString property" Url="html/P_VIP2_Business_VIP2Connection_ConnectionString.htm" />
   <HelpKINode Title="VIP2Connection.Database property" Url="html/P_VIP2_Business_VIP2Connection_Database.htm" />
   <HelpKINode Title="VIP2Connection.VIP2Connection constructor" Url="html/M_VIP2_Business_VIP2Connection__ctor.htm" />
+  <HelpKINode Title="Voted_Last_Election property" Url="html/P_VIP2_Business_Voter_Voted_Last_Election.htm" />
+  <HelpKINode Title="Voter class">
+    <HelpKINode Title="Voter Class" Url="html/T_VIP2_Business_Voter.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VIP2_Business_Voter__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VIP2_Business_Voter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VIP2_Business_Voter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Voter.Address_1 property" Url="html/P_VIP2_Business_Voter_Address_1.htm" />
+  <HelpKINode Title="Voter.Address_2 property" Url="html/P_VIP2_Business_Voter_Address_2.htm" />
+  <HelpKINode Title="Voter.Address_3 property" Url="html/P_VIP2_Business_Voter_Address_3.htm" />
+  <HelpKINode Title="Voter.Address_4 property" Url="html/P_VIP2_Business_Voter_Address_4.htm" />
+  <HelpKINode Title="Voter.Ballot_Received property" Url="html/P_VIP2_Business_Voter_Ballot_Received.htm" />
+  <HelpKINode Title="Voter.Ballot_Requested property" Url="html/P_VIP2_Business_Voter_Ballot_Requested.htm" />
+  <HelpKINode Title="Voter.Ballot_Sent property" Url="html/P_VIP2_Business_Voter_Ballot_Sent.htm" />
+  <HelpKINode Title="Voter.Birth_Day property" Url="html/P_VIP2_Business_Voter_Birth_Day.htm" />
+  <HelpKINode Title="Voter.Birth_Month property" Url="html/P_VIP2_Business_Voter_Birth_Month.htm" />
+  <HelpKINode Title="Voter.Birth_Year property" Url="html/P_VIP2_Business_Voter_Birth_Year.htm" />
+  <HelpKINode Title="Voter.City property" Url="html/P_VIP2_Business_Voter_City.htm" />
+  <HelpKINode Title="Voter.County property" Url="html/P_VIP2_Business_Voter_County.htm" />
+  <HelpKINode Title="Voter.Data_Date property" Url="html/P_VIP2_Business_Voter_Data_Date.htm" />
+  <HelpKINode Title="Voter.Delete method" Url="html/M_VIP2_Business_Voter_Delete.htm" />
+  <HelpKINode Title="Voter.DOB property" Url="html/P_VIP2_Business_Voter_DOB.htm" />
+  <HelpKINode Title="Voter.First_Name property" Url="html/P_VIP2_Business_Voter_First_Name.htm" />
+  <HelpKINode Title="Voter.Gender property" Url="html/P_VIP2_Business_Voter_Gender.htm" />
+  <HelpKINode Title="Voter.ID property" Url="html/P_VIP2_Business_Voter_ID.htm" />
+  <HelpKINode Title="Voter.Insert method" Url="html/Overload_VIP2_Business_Voter_Insert.htm" />
+  <HelpKINode Title="Voter.Last_Name property" Url="html/P_VIP2_Business_Voter_Last_Name.htm" />
+  <HelpKINode Title="Voter.Mail_1 property" Url="html/P_VIP2_Business_Voter_Mail_1.htm" />
+  <HelpKINode Title="Voter.Mail_2 property" Url="html/P_VIP2_Business_Voter_Mail_2.htm" />
+  <HelpKINode Title="Voter.Mail_3 property" Url="html/P_VIP2_Business_Voter_Mail_3.htm" />
+  <HelpKINode Title="Voter.Mail_4 property" Url="html/P_VIP2_Business_Voter_Mail_4.htm" />
+  <HelpKINode Title="Voter.Mail_City property" Url="html/P_VIP2_Business_Voter_Mail_City.htm" />
+  <HelpKINode Title="Voter.Mail_Country property" Url="html/P_VIP2_Business_Voter_Mail_Country.htm" />
+  <HelpKINode Title="Voter.Mail_State property" Url="html/P_VIP2_Business_Voter_Mail_State.htm" />
+  <HelpKINode Title="Voter.Mail_Zip property" Url="html/P_VIP2_Business_Voter_Mail_Zip.htm" />
+  <HelpKINode Title="Voter.Middle_Name property" Url="html/P_VIP2_Business_Voter_Middle_Name.htm" />
+  <HelpKINode Title="Voter.Precinct_Ward property" Url="html/P_VIP2_Business_Voter_Precinct_Ward.htm" />
+  <HelpKINode Title="Voter.Read_Voter method" Url="html/M_VIP2_Business_Voter_Read_Voter.htm" />
+  <HelpKINode Title="Voter.Read_Voters method" Url="html/M_VIP2_Business_Voter_Read_Voters.htm" />
+  <HelpKINode Title="Voter.Registration_Date property" Url="html/P_VIP2_Business_Voter_Registration_Date.htm" />
+  <HelpKINode Title="Voter.Reg_Sate property" Url="html/P_VIP2_Business_Voter_Reg_Sate.htm" />
+  <HelpKINode Title="Voter.State property" Url="html/P_VIP2_Business_Voter_State.htm" />
+  <HelpKINode Title="Voter.Suffix property" Url="html/P_VIP2_Business_Voter_Suffix.htm" />
+  <HelpKINode Title="Voter.Update method" Url="html/Overload_VIP2_Business_Voter_Update.htm" />
+  <HelpKINode Title="Voter.Voted_Last_Election property" Url="html/P_VIP2_Business_Voter_Voted_Last_Election.htm" />
+  <HelpKINode Title="Voter.Voter constructor" Url="html/M_VIP2_Business_Voter__ctor.htm" />
+  <HelpKINode Title="Voter.Voter_Registration_Number property" Url="html/P_VIP2_Business_Voter_Voter_Registration_Number.htm" />
+  <HelpKINode Title="Voter.Voter_Status property" Url="html/P_VIP2_Business_Voter_Voter_Status.htm" />
+  <HelpKINode Title="Voter.Zip property" Url="html/P_VIP2_Business_Voter_Zip.htm" />
+  <HelpKINode Title="Voter_Registration_Number property" Url="html/P_VIP2_Business_Voter_Voter_Registration_Number.htm" />
+  <HelpKINode Title="Voter_Status property" Url="html/P_VIP2_Business_Voter_Voter_Status.htm" />
   <HelpKINode Title="Weight property" Url="html/P_VIP2_Business_User_Weight.htm" />
+  <HelpKINode Title="Zip property" Url="html/P_VIP2_Business_Voter_Zip.htm" />
 </HelpKI>

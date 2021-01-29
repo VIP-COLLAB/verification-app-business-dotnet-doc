@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="f7262157-579f-4b8f-bd22-b7c140aeb806" Title="VIP2.Business" Url="html/N_VIP2_Business.htm">
-    <HelpTOCNode Id="4489d74e-e6b2-4f6f-b458-ac81ef65346d" Title="Blacklist Class" Url="html/T_VIP2_Business_Blacklist.htm">
+  <HelpTOCNode Id="dda01d19-c8e0-406f-9368-5f4a09cc0cbe" Title="VIP2.Business" Url="html/N_VIP2_Business.htm">
+    <HelpTOCNode Id="af255448-73f3-4c24-8247-f31f99685b4f" Title="Blacklist Class" Url="html/T_VIP2_Business_Blacklist.htm">
       <HelpTOCNode Title="Blacklist Constructor " Url="html/M_VIP2_Business_Blacklist__ctor.htm" />
-      <HelpTOCNode Id="73c81ed0-4fd4-4d1f-ac9c-7c963d6419fa" Title="Blacklist Properties" Url="html/Properties_T_VIP2_Business_Blacklist.htm">
+      <HelpTOCNode Id="34fa27ad-31ac-4532-a5e7-cef4fcd88def" Title="Blacklist Properties" Url="html/Properties_T_VIP2_Business_Blacklist.htm">
         <HelpTOCNode Title="Blacksites Property " Url="html/P_VIP2_Business_Blacklist_Blacksites.htm" />
         <HelpTOCNode Title="Created_At Property " Url="html/P_VIP2_Business_Blacklist_Created_At.htm" />
         <HelpTOCNode Title="Created_By Property " Url="html/P_VIP2_Business_Blacklist_Created_By.htm" />
@@ -13,33 +13,33 @@
         <HelpTOCNode Title="Name Property " Url="html/P_VIP2_Business_Blacklist_Name.htm" />
         <HelpTOCNode Title="State Property " Url="html/P_VIP2_Business_Blacklist_State.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3226f7d2-136c-42ed-9084-83257c6273df" Title="Blacklist Methods" Url="html/Methods_T_VIP2_Business_Blacklist.htm">
+      <HelpTOCNode Id="67fb3c65-d427-4956-ac61-b3923ca7248d" Title="Blacklist Methods" Url="html/Methods_T_VIP2_Business_Blacklist.htm">
         <HelpTOCNode Title="Deduplicate Method " Url="html/M_VIP2_Business_Blacklist_Deduplicate.htm" />
         <HelpTOCNode Title="Delete Method " Url="html/M_VIP2_Business_Blacklist_Delete.htm" />
         <HelpTOCNode Title="Get_Invalid_Addresses Method " Url="html/M_VIP2_Business_Blacklist_Get_Invalid_Addresses.htm" />
-        <HelpTOCNode Id="c60dd2c3-a45d-40e9-aa4d-c74a2e70a759" Title="Insert Method " Url="html/Overload_VIP2_Business_Blacklist_Insert.htm">
+        <HelpTOCNode Id="072dfab0-8fd8-4f8f-b476-61d9ecb4d8f1" Title="Insert Method " Url="html/Overload_VIP2_Business_Blacklist_Insert.htm">
           <HelpTOCNode Title="Insert Method (VIP2Connection)" Url="html/M_VIP2_Business_Blacklist_Insert.htm" />
           <HelpTOCNode Title="Insert Method (VIP2Connection, IEnumerable(Blacklist))" Url="html/M_VIP2_Business_Blacklist_Insert_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Read_Blacklist Method " Url="html/M_VIP2_Business_Blacklist_Read_Blacklist.htm" />
         <HelpTOCNode Title="Read_Blacklists Method " Url="html/M_VIP2_Business_Blacklist_Read_Blacklists.htm" />
-        <HelpTOCNode Id="5bb789cf-109d-4650-8ff0-4b414d983a44" Title="Update Method " Url="html/Overload_VIP2_Business_Blacklist_Update.htm">
+        <HelpTOCNode Id="e350043b-087c-4c68-a152-7e99b58ca3e5" Title="Update Method " Url="html/Overload_VIP2_Business_Blacklist_Update.htm">
           <HelpTOCNode Title="Update Method (VIP2Connection, Boolean, Boolean)" Url="html/M_VIP2_Business_Blacklist_Update.htm" />
           <HelpTOCNode Title="Update Method (VIP2Connection, Boolean, String, Object)" Url="html/M_VIP2_Business_Blacklist_Update_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ce6a98d9-d401-4557-9c1d-33dd556904b9" Title="Blacklist_Kind Class" Url="html/T_VIP2_Business_Blacklist_Kind.htm">
-      <HelpTOCNode Id="2858fed5-62a8-4921-8e6f-77a0c94dda70" Title="Blacklist_Kind Properties" Url="html/Properties_T_VIP2_Business_Blacklist_Kind.htm">
+    <HelpTOCNode Id="b1fd5bfe-a3e6-43af-98df-3e2d335936f6" Title="Blacklist_Kind Class" Url="html/T_VIP2_Business_Blacklist_Kind.htm">
+      <HelpTOCNode Id="43dceab7-0c2b-4e65-a440-128348812234" Title="Blacklist_Kind Properties" Url="html/Properties_T_VIP2_Business_Blacklist_Kind.htm">
         <HelpTOCNode Title="Office Property " Url="html/P_VIP2_Business_Blacklist_Kind_Office.htm" />
         <HelpTOCNode Title="Other Property " Url="html/P_VIP2_Business_Blacklist_Kind_Other.htm" />
         <HelpTOCNode Title="Post_Ship Property " Url="html/P_VIP2_Business_Blacklist_Kind_Post_Ship.htm" />
         <HelpTOCNode Title="Storage Property " Url="html/P_VIP2_Business_Blacklist_Kind_Storage.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a0a1a527-2c38-4734-8f65-bbb639f6cff3" Title="Blacksite Class" Url="html/T_VIP2_Business_Blacksite.htm">
+    <HelpTOCNode Id="d2efaf77-28af-47ce-89af-47deeb3d6a25" Title="Blacksite Class" Url="html/T_VIP2_Business_Blacksite.htm">
       <HelpTOCNode Title="Blacksite Constructor " Url="html/M_VIP2_Business_Blacksite__ctor.htm" />
-      <HelpTOCNode Id="cb0e1c82-f89b-4bf6-a21e-9e055a6cc4e1" Title="Blacksite Properties" Url="html/Properties_T_VIP2_Business_Blacksite.htm">
+      <HelpTOCNode Id="794f7861-26cd-4c0a-a2a3-22a3d12b03e3" Title="Blacksite Properties" Url="html/Properties_T_VIP2_Business_Blacksite.htm">
         <HelpTOCNode Title="ID Property " Url="html/P_VIP2_Business_Blacksite_ID.htm" />
         <HelpTOCNode Title="Invalidated_By Property " Url="html/P_VIP2_Business_Blacksite_Invalidated_By.htm" />
         <HelpTOCNode Title="List_ID Property " Url="html/P_VIP2_Business_Blacksite_List_ID.htm" />
@@ -51,21 +51,21 @@
         <HelpTOCNode Title="Raw_Address Property " Url="html/P_VIP2_Business_Blacksite_Raw_Address.htm" />
         <HelpTOCNode Title="Verified_By Property " Url="html/P_VIP2_Business_Blacksite_Verified_By.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3ede70f8-ca7e-4805-bfb6-3d98001e8cfd" Title="Blacksite Methods" Url="html/Methods_T_VIP2_Business_Blacksite.htm">
+      <HelpTOCNode Id="51de734e-2707-4df3-b4af-28c4cba0ab83" Title="Blacksite Methods" Url="html/Methods_T_VIP2_Business_Blacksite.htm">
         <HelpTOCNode Title="Delete Method " Url="html/M_VIP2_Business_Blacksite_Delete.htm" />
         <HelpTOCNode Title="Get_Invalid_Addresses Method " Url="html/M_VIP2_Business_Blacksite_Get_Invalid_Addresses.htm" />
         <HelpTOCNode Title="Insert Method " Url="html/M_VIP2_Business_Blacksite_Insert.htm" />
         <HelpTOCNode Title="Read_Blacksite Method " Url="html/M_VIP2_Business_Blacksite_Read_Blacksite.htm" />
         <HelpTOCNode Title="Read_Blacksites Method " Url="html/M_VIP2_Business_Blacksite_Read_Blacksites.htm" />
-        <HelpTOCNode Id="e4dc0f97-8f68-4594-a4e0-16594a725e87" Title="Update Method " Url="html/Overload_VIP2_Business_Blacksite_Update.htm">
+        <HelpTOCNode Id="aae7a733-8cab-48a8-879c-095bd5bb066f" Title="Update Method " Url="html/Overload_VIP2_Business_Blacksite_Update.htm">
           <HelpTOCNode Title="Update Method (VIP2Connection, Boolean)" Url="html/M_VIP2_Business_Blacksite_Update.htm" />
           <HelpTOCNode Title="Update Method (VIP2Connection, Boolean, String, Object)" Url="html/M_VIP2_Business_Blacksite_Update_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f0d39767-f03a-4fed-9307-6d7589ff0f5e" Title="Query_Result Class" Url="html/T_VIP2_Business_Query_Result.htm">
+    <HelpTOCNode Id="0ff2173e-1c0a-4ba4-9635-dbbd9e78553e" Title="Query_Result Class" Url="html/T_VIP2_Business_Query_Result.htm">
       <HelpTOCNode Title="Query_Result Constructor " Url="html/M_VIP2_Business_Query_Result__ctor.htm" />
-      <HelpTOCNode Id="6a254a98-910b-4294-b246-eec3a549b2af" Title="Query_Result Properties" Url="html/Properties_T_VIP2_Business_Query_Result.htm">
+      <HelpTOCNode Id="e0393f4e-20c8-4361-a100-4aa45e422962" Title="Query_Result Properties" Url="html/Properties_T_VIP2_Business_Query_Result.htm">
         <HelpTOCNode Title="Error Property " Url="html/P_VIP2_Business_Query_Result_Error.htm" />
         <HelpTOCNode Title="Error_Message Property " Url="html/P_VIP2_Business_Query_Result_Error_Message.htm" />
         <HelpTOCNode Title="Result Property " Url="html/P_VIP2_Business_Query_Result_Result.htm" />
@@ -73,9 +73,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Query_Result Methods" Url="html/Methods_T_VIP2_Business_Query_Result.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="8035500f-4a24-4e61-a6f4-6b0e2b4609e2" Title="User Class" Url="html/T_VIP2_Business_User.htm">
+    <HelpTOCNode Id="ec94eaf9-7e5e-4bae-b2bf-f555126c515f" Title="User Class" Url="html/T_VIP2_Business_User.htm">
       <HelpTOCNode Title="User Constructor " Url="html/M_VIP2_Business_User__ctor.htm" />
-      <HelpTOCNode Id="49647f95-be1d-4afb-a4a7-c53208c49e57" Title="User Properties" Url="html/Properties_T_VIP2_Business_User.htm">
+      <HelpTOCNode Id="bf0ea30b-2c5e-40e0-940e-a35c7f2f96a2" Title="User Properties" Url="html/Properties_T_VIP2_Business_User.htm">
         <HelpTOCNode Title="Confirmed Property " Url="html/P_VIP2_Business_User_Confirmed.htm" />
         <HelpTOCNode Title="ID Property " Url="html/P_VIP2_Business_User_ID.htm" />
         <HelpTOCNode Title="Is_Exporter Property " Url="html/P_VIP2_Business_User_Is_Exporter.htm" />
@@ -84,23 +84,77 @@
         <HelpTOCNode Title="Username Property " Url="html/P_VIP2_Business_User_Username.htm" />
         <HelpTOCNode Title="Weight Property " Url="html/P_VIP2_Business_User_Weight.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="faaca73d-f4b5-4d2b-8b56-f1cf714aa586" Title="User Methods" Url="html/Methods_T_VIP2_Business_User.htm">
+      <HelpTOCNode Id="3a7de7ef-7dff-4d16-b875-6e3b18c8d1a5" Title="User Methods" Url="html/Methods_T_VIP2_Business_User.htm">
         <HelpTOCNode Title="Read_User Method " Url="html/M_VIP2_Business_User_Read_User.htm" />
         <HelpTOCNode Title="Read_Users Method " Url="html/M_VIP2_Business_User_Read_Users.htm" />
-        <HelpTOCNode Id="48696f36-11bc-4707-ba71-454720ecb73b" Title="Update Method " Url="html/Overload_VIP2_Business_User_Update.htm">
+        <HelpTOCNode Id="667974c2-4c1f-4f83-86bf-9d232b2d0c5d" Title="Update Method " Url="html/Overload_VIP2_Business_User_Update.htm">
           <HelpTOCNode Title="Update Method (VIP2Connection, Boolean)" Url="html/M_VIP2_Business_User_Update.htm" />
           <HelpTOCNode Title="Update Method (VIP2Connection, Boolean, String, Object)" Url="html/M_VIP2_Business_User_Update_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="98c5b63a-91e1-4127-87b3-2590cbc05f11" Title="VIP2Connection Class" Url="html/T_VIP2_Business_VIP2Connection.htm">
+    <HelpTOCNode Id="003ec39e-63a0-440d-92ae-d539178ea363" Title="VIP2Connection Class" Url="html/T_VIP2_Business_VIP2Connection.htm">
       <HelpTOCNode Title="VIP2Connection Constructor " Url="html/M_VIP2_Business_VIP2Connection__ctor.htm" />
-      <HelpTOCNode Id="3b3a2297-b15f-40b0-aae6-6e6f476463ef" Title="VIP2Connection Properties" Url="html/Properties_T_VIP2_Business_VIP2Connection.htm">
+      <HelpTOCNode Id="55f6b2e5-8606-4366-958c-6f409091ad22" Title="VIP2Connection Properties" Url="html/Properties_T_VIP2_Business_VIP2Connection.htm">
         <HelpTOCNode Title="Connection Property " Url="html/P_VIP2_Business_VIP2Connection_Connection.htm" />
         <HelpTOCNode Title="ConnectionString Property " Url="html/P_VIP2_Business_VIP2Connection_ConnectionString.htm" />
         <HelpTOCNode Title="Database Property " Url="html/P_VIP2_Business_VIP2Connection_Database.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="VIP2Connection Methods" Url="html/Methods_T_VIP2_Business_VIP2Connection.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="4bb0fd5c-7ce7-426a-bb73-3c39e94b207b" Title="Voter Class" Url="html/T_VIP2_Business_Voter.htm">
+      <HelpTOCNode Title="Voter Constructor " Url="html/M_VIP2_Business_Voter__ctor.htm" />
+      <HelpTOCNode Id="2a22de87-9148-4532-a3c1-1561380c1985" Title="Voter Properties" Url="html/Properties_T_VIP2_Business_Voter.htm">
+        <HelpTOCNode Title="Address_1 Property " Url="html/P_VIP2_Business_Voter_Address_1.htm" />
+        <HelpTOCNode Title="Address_2 Property " Url="html/P_VIP2_Business_Voter_Address_2.htm" />
+        <HelpTOCNode Title="Address_3 Property " Url="html/P_VIP2_Business_Voter_Address_3.htm" />
+        <HelpTOCNode Title="Address_4 Property " Url="html/P_VIP2_Business_Voter_Address_4.htm" />
+        <HelpTOCNode Title="Ballot_Received Property " Url="html/P_VIP2_Business_Voter_Ballot_Received.htm" />
+        <HelpTOCNode Title="Ballot_Requested Property " Url="html/P_VIP2_Business_Voter_Ballot_Requested.htm" />
+        <HelpTOCNode Title="Ballot_Sent Property " Url="html/P_VIP2_Business_Voter_Ballot_Sent.htm" />
+        <HelpTOCNode Title="Birth_Day Property " Url="html/P_VIP2_Business_Voter_Birth_Day.htm" />
+        <HelpTOCNode Title="Birth_Month Property " Url="html/P_VIP2_Business_Voter_Birth_Month.htm" />
+        <HelpTOCNode Title="Birth_Year Property " Url="html/P_VIP2_Business_Voter_Birth_Year.htm" />
+        <HelpTOCNode Title="City Property " Url="html/P_VIP2_Business_Voter_City.htm" />
+        <HelpTOCNode Title="County Property " Url="html/P_VIP2_Business_Voter_County.htm" />
+        <HelpTOCNode Title="Data_Date Property " Url="html/P_VIP2_Business_Voter_Data_Date.htm" />
+        <HelpTOCNode Title="DOB Property " Url="html/P_VIP2_Business_Voter_DOB.htm" />
+        <HelpTOCNode Title="First_Name Property " Url="html/P_VIP2_Business_Voter_First_Name.htm" />
+        <HelpTOCNode Title="Gender Property " Url="html/P_VIP2_Business_Voter_Gender.htm" />
+        <HelpTOCNode Title="ID Property " Url="html/P_VIP2_Business_Voter_ID.htm" />
+        <HelpTOCNode Title="Last_Name Property " Url="html/P_VIP2_Business_Voter_Last_Name.htm" />
+        <HelpTOCNode Title="Mail_1 Property " Url="html/P_VIP2_Business_Voter_Mail_1.htm" />
+        <HelpTOCNode Title="Mail_2 Property " Url="html/P_VIP2_Business_Voter_Mail_2.htm" />
+        <HelpTOCNode Title="Mail_3 Property " Url="html/P_VIP2_Business_Voter_Mail_3.htm" />
+        <HelpTOCNode Title="Mail_4 Property " Url="html/P_VIP2_Business_Voter_Mail_4.htm" />
+        <HelpTOCNode Title="Mail_City Property " Url="html/P_VIP2_Business_Voter_Mail_City.htm" />
+        <HelpTOCNode Title="Mail_Country Property " Url="html/P_VIP2_Business_Voter_Mail_Country.htm" />
+        <HelpTOCNode Title="Mail_State Property " Url="html/P_VIP2_Business_Voter_Mail_State.htm" />
+        <HelpTOCNode Title="Mail_Zip Property " Url="html/P_VIP2_Business_Voter_Mail_Zip.htm" />
+        <HelpTOCNode Title="Middle_Name Property " Url="html/P_VIP2_Business_Voter_Middle_Name.htm" />
+        <HelpTOCNode Title="Precinct_Ward Property " Url="html/P_VIP2_Business_Voter_Precinct_Ward.htm" />
+        <HelpTOCNode Title="Reg_Sate Property " Url="html/P_VIP2_Business_Voter_Reg_Sate.htm" />
+        <HelpTOCNode Title="Registration_Date Property " Url="html/P_VIP2_Business_Voter_Registration_Date.htm" />
+        <HelpTOCNode Title="State Property " Url="html/P_VIP2_Business_Voter_State.htm" />
+        <HelpTOCNode Title="Suffix Property " Url="html/P_VIP2_Business_Voter_Suffix.htm" />
+        <HelpTOCNode Title="Voted_Last_Election Property " Url="html/P_VIP2_Business_Voter_Voted_Last_Election.htm" />
+        <HelpTOCNode Title="Voter_Registration_Number Property " Url="html/P_VIP2_Business_Voter_Voter_Registration_Number.htm" />
+        <HelpTOCNode Title="Voter_Status Property " Url="html/P_VIP2_Business_Voter_Voter_Status.htm" />
+        <HelpTOCNode Title="Zip Property " Url="html/P_VIP2_Business_Voter_Zip.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="11c82f45-ac1b-4543-80eb-100a5da0ee62" Title="Voter Methods" Url="html/Methods_T_VIP2_Business_Voter.htm">
+        <HelpTOCNode Title="Delete Method " Url="html/M_VIP2_Business_Voter_Delete.htm" />
+        <HelpTOCNode Id="8a0d9055-4cf8-4261-985d-79425e032d9e" Title="Insert Method " Url="html/Overload_VIP2_Business_Voter_Insert.htm">
+          <HelpTOCNode Title="Insert Method (VIP2Connection, Boolean)" Url="html/M_VIP2_Business_Voter_Insert.htm" />
+          <HelpTOCNode Title="Insert Method (VIP2Connection, Boolean, IEnumerable(Voter))" Url="html/M_VIP2_Business_Voter_Insert_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Read_Voter Method " Url="html/M_VIP2_Business_Voter_Read_Voter.htm" />
+        <HelpTOCNode Title="Read_Voters Method " Url="html/M_VIP2_Business_Voter_Read_Voters.htm" />
+        <HelpTOCNode Id="2e5e7b3b-d208-407c-9e5d-9e490374b3f8" Title="Update Method " Url="html/Overload_VIP2_Business_Voter_Update.htm">
+          <HelpTOCNode Title="Update Method (VIP2Connection, Boolean)" Url="html/M_VIP2_Business_Voter_Update.htm" />
+          <HelpTOCNode Title="Update Method (VIP2Connection, Boolean, String, Object)" Url="html/M_VIP2_Business_Voter_Update_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
 </HelpTOC>
