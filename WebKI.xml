@@ -20,12 +20,68 @@
   <HelpKINode Title="Address.StreetSummary method" Url="html/M_VIP2_Business_Address_StreetSummary.htm" />
   <HelpKINode Title="Address.Suffix property" Url="html/P_VIP2_Business_Address_Suffix.htm" />
   <HelpKINode Title="Address.ToString method" Url="html/M_VIP2_Business_Address_ToString.htm" />
+  <HelpKINode Title="Address.ToSummaryString method" Url="html/M_VIP2_Business_Address_ToSummaryString.htm" />
   <HelpKINode Title="Address.Zip property" Url="html/P_VIP2_Business_Address_Zip.htm" />
   <HelpKINode Title="Address.Zip_Full property" Url="html/P_VIP2_Business_Address_Zip_Full.htm" />
+  <HelpKINode Title="AddressLineRegex property" Url="html/P_USAddress_AddressParser_AddressLineRegex.htm" />
+  <HelpKINode Title="AddressParser class">
+    <HelpKINode Title="AddressParser Class" Url="html/T_USAddress_AddressParser.htm" />
+    <HelpKINode Title="constructor" Url="html/M_USAddress_AddressParser__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_USAddress_AddressParser.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_USAddress_AddressParser.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddressParser.AddressLineRegex property" Url="html/P_USAddress_AddressParser_AddressLineRegex.htm" />
+  <HelpKINode Title="AddressParser.AddressParser constructor" Url="html/M_USAddress_AddressParser__ctor.htm" />
+  <HelpKINode Title="AddressParser.AddressRegex property" Url="html/P_USAddress_AddressParser_AddressRegex.htm" />
+  <HelpKINode Title="AddressParser.AllSecondaryUnitPattern property" Url="html/P_USAddress_AddressParser_AllSecondaryUnitPattern.htm" />
+  <HelpKINode Title="AddressParser.AllUnits property" Url="html/P_USAddress_AddressParser_AllUnits.htm" />
+  <HelpKINode Title="AddressParser.CityAndStatePattern property" Url="html/P_USAddress_AddressParser_CityAndStatePattern.htm" />
+  <HelpKINode Title="AddressParser.CompileRegex property" Url="html/P_USAddress_AddressParser_CompileRegex.htm" />
+  <HelpKINode Title="AddressParser.Default property" Url="html/P_USAddress_AddressParser_Default.htm" />
+  <HelpKINode Title="AddressParser.DirectionalNames property" Url="html/P_USAddress_AddressParser_DirectionalNames.htm" />
+  <HelpKINode Title="AddressParser.DirectionalPattern property" Url="html/P_USAddress_AddressParser_DirectionalPattern.htm" />
+  <HelpKINode Title="AddressParser.MatchOptions property" Url="html/P_USAddress_AddressParser_MatchOptions.htm" />
+  <HelpKINode Title="AddressParser.ParseAddress method" Url="html/Overload_USAddress_AddressParser_ParseAddress.htm" />
+  <HelpKINode Title="AddressParser.ParseAddressLine method" Url="html/M_USAddress_AddressParser_ParseAddressLine.htm" />
+  <HelpKINode Title="AddressParser.PlacePattern property" Url="html/P_USAddress_AddressParser_PlacePattern.htm" />
+  <HelpKINode Title="AddressParser.PostalBoxPattern property" Url="html/P_USAddress_AddressParser_PostalBoxPattern.htm" />
+  <HelpKINode Title="AddressParser.PostalBoxPatternAddressLineOnly property" Url="html/P_USAddress_AddressParser_PostalBoxPatternAddressLineOnly.htm" />
+  <HelpKINode Title="AddressParser.RangedSecondaryUnitPattern property" Url="html/P_USAddress_AddressParser_RangedSecondaryUnitPattern.htm" />
+  <HelpKINode Title="AddressParser.RangedUnits property" Url="html/P_USAddress_AddressParser_RangedUnits.htm" />
+  <HelpKINode Title="AddressParser.RangelessSecondaryUnitPattern property" Url="html/P_USAddress_AddressParser_RangelessSecondaryUnitPattern.htm" />
+  <HelpKINode Title="AddressParser.RangelessUnits property" Url="html/P_USAddress_AddressParser_RangelessUnits.htm" />
+  <HelpKINode Title="AddressParser.StatePattern property" Url="html/P_USAddress_AddressParser_StatePattern.htm" />
+  <HelpKINode Title="AddressParser.StatesAndProvinces property" Url="html/P_USAddress_AddressParser_StatesAndProvinces.htm" />
+  <HelpKINode Title="AddressParser.StreetPattern property" Url="html/P_USAddress_AddressParser_StreetPattern.htm" />
+  <HelpKINode Title="AddressParser.StreetSuffixes property" Url="html/P_USAddress_AddressParser_StreetSuffixes.htm" />
+  <HelpKINode Title="AddressParser.SuffixPattern property" Url="html/P_USAddress_AddressParser_SuffixPattern.htm" />
+  <HelpKINode Title="AddressParser.ZipPattern property" Url="html/P_USAddress_AddressParser_ZipPattern.htm" />
+  <HelpKINode Title="AddressParseResult class">
+    <HelpKINode Title="AddressParseResult Class" Url="html/T_USAddress_AddressParseResult.htm" />
+    <HelpKINode Title="constructor" Url="html/M_USAddress_AddressParseResult__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_USAddress_AddressParseResult.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_USAddress_AddressParseResult.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddressParseResult.AddressParseResult constructor" Url="html/M_USAddress_AddressParseResult__ctor.htm" />
+  <HelpKINode Title="AddressParseResult.City property" Url="html/P_USAddress_AddressParseResult_City.htm" />
+  <HelpKINode Title="AddressParseResult.Number property" Url="html/P_USAddress_AddressParseResult_Number.htm" />
+  <HelpKINode Title="AddressParseResult.Postdirectional property" Url="html/P_USAddress_AddressParseResult_Postdirectional.htm" />
+  <HelpKINode Title="AddressParseResult.Predirectional property" Url="html/P_USAddress_AddressParseResult_Predirectional.htm" />
+  <HelpKINode Title="AddressParseResult.RegexMatch property" Url="html/P_USAddress_AddressParseResult_RegexMatch.htm" />
+  <HelpKINode Title="AddressParseResult.SecondaryNumber property" Url="html/P_USAddress_AddressParseResult_SecondaryNumber.htm" />
+  <HelpKINode Title="AddressParseResult.SecondaryUnit property" Url="html/P_USAddress_AddressParseResult_SecondaryUnit.htm" />
+  <HelpKINode Title="AddressParseResult.State property" Url="html/P_USAddress_AddressParseResult_State.htm" />
+  <HelpKINode Title="AddressParseResult.Street property" Url="html/P_USAddress_AddressParseResult_Street.htm" />
+  <HelpKINode Title="AddressParseResult.StreetLine property" Url="html/P_USAddress_AddressParseResult_StreetLine.htm" />
+  <HelpKINode Title="AddressParseResult.Suffix property" Url="html/P_USAddress_AddressParseResult_Suffix.htm" />
+  <HelpKINode Title="AddressParseResult.ToString method" Url="html/M_USAddress_AddressParseResult_ToString.htm" />
+  <HelpKINode Title="AddressParseResult.Zip property" Url="html/P_USAddress_AddressParseResult_Zip.htm" />
+  <HelpKINode Title="AddressRegex property" Url="html/P_USAddress_AddressParser_AddressRegex.htm" />
   <HelpKINode Title="Address_1 property" Url="html/P_VIP2_Business_Voter_Address_1.htm" />
   <HelpKINode Title="Address_2 property" Url="html/P_VIP2_Business_Voter_Address_2.htm" />
   <HelpKINode Title="Address_3 property" Url="html/P_VIP2_Business_Voter_Address_3.htm" />
   <HelpKINode Title="Address_4 property" Url="html/P_VIP2_Business_Voter_Address_4.htm" />
+  <HelpKINode Title="Algorithm property" Url="html/P_VIP2_Business_Match_Algorithm.htm" />
   <HelpKINode Title="Alien class">
     <HelpKINode Title="Alien Class" Url="html/T_VIP2_Business_Alien.htm" />
     <HelpKINode Title="constructor" Url="html/M_VIP2_Business_Alien__ctor.htm" />
@@ -39,10 +95,13 @@
   <HelpKINode Title="Alien.Entry_ID property" Url="html/P_VIP2_Business_Alien_Entry_ID.htm" />
   <HelpKINode Title="Alien.ID property" Url="html/P_VIP2_Business_Alien_ID.htm" />
   <HelpKINode Title="Alien.Insert method" Url="html/Overload_VIP2_Business_Alien_Insert.htm" />
+  <HelpKINode Title="Alien.InsertAsync method" Url="html/M_VIP2_Business_Alien_InsertAsync.htm" />
   <HelpKINode Title="Alien.Margin property" Url="html/P_VIP2_Business_Alien_Margin.htm" />
   <HelpKINode Title="Alien.Read_Alien method" Url="html/M_VIP2_Business_Alien_Read_Alien.htm" />
   <HelpKINode Title="Alien.Read_Aliens method" Url="html/M_VIP2_Business_Alien_Read_Aliens.htm" />
   <HelpKINode Title="Alien.Update method" Url="html/Overload_VIP2_Business_Alien_Update.htm" />
+  <HelpKINode Title="AllSecondaryUnitPattern property" Url="html/P_USAddress_AddressParser_AllSecondaryUnitPattern.htm" />
+  <HelpKINode Title="AllUnits property" Url="html/P_USAddress_AddressParser_AllUnits.htm" />
   <HelpKINode Title="Ballot_Received property" Url="html/P_VIP2_Business_Voter_Ballot_Received.htm" />
   <HelpKINode Title="Ballot_Requested property" Url="html/P_VIP2_Business_Voter_Ballot_Requested.htm" />
   <HelpKINode Title="Ballot_Sent property" Url="html/P_VIP2_Business_Voter_Ballot_Sent.htm" />
@@ -60,7 +119,7 @@
   <HelpKINode Title="Blacklist.Blacksites property" Url="html/P_VIP2_Business_Blacklist_Blacksites.htm" />
   <HelpKINode Title="Blacklist.Created_At property" Url="html/P_VIP2_Business_Blacklist_Created_At.htm" />
   <HelpKINode Title="Blacklist.Created_By property" Url="html/P_VIP2_Business_Blacklist_Created_By.htm" />
-  <HelpKINode Title="Blacklist.Deduplicate method" Url="html/M_VIP2_Business_Blacklist_Deduplicate.htm" />
+  <HelpKINode Title="Blacklist.Deduplicate method" Url="html/Overload_VIP2_Business_Blacklist_Deduplicate.htm" />
   <HelpKINode Title="Blacklist.Delete method" Url="html/M_VIP2_Business_Blacklist_Delete.htm" />
   <HelpKINode Title="Blacklist.Get_Invalid_Addresses method" Url="html/M_VIP2_Business_Blacklist_Get_Invalid_Addresses.htm" />
   <HelpKINode Title="Blacklist.ID property" Url="html/P_VIP2_Business_Blacklist_ID.htm" />
@@ -89,6 +148,7 @@
   </HelpKINode>
   <HelpKINode Title="Blacksite.Blacksite constructor" Url="html/M_VIP2_Business_Blacksite__ctor.htm" />
   <HelpKINode Title="Blacksite.Delete method" Url="html/M_VIP2_Business_Blacksite_Delete.htm" />
+  <HelpKINode Title="Blacksite.DeleteAsync method" Url="html/M_VIP2_Business_Blacksite_DeleteAsync.htm" />
   <HelpKINode Title="Blacksite.Get_Invalid_Addresses method" Url="html/M_VIP2_Business_Blacksite_Get_Invalid_Addresses.htm" />
   <HelpKINode Title="Blacksite.ID property" Url="html/P_VIP2_Business_Blacksite_ID.htm" />
   <HelpKINode Title="Blacksite.Insert method" Url="html/M_VIP2_Business_Blacksite_Insert.htm" />
@@ -96,6 +156,7 @@
   <HelpKINode Title="Blacksite.List_ID property" Url="html/P_VIP2_Business_Blacksite_List_ID.htm" />
   <HelpKINode Title="Blacksite.Name property" Url="html/P_VIP2_Business_Blacksite_Name.htm" />
   <HelpKINode Title="Blacksite.Normalized_Address property" Url="html/P_VIP2_Business_Blacksite_Normalized_Address.htm" />
+  <HelpKINode Title="Blacksite.Normalize_Address method" Url="html/M_VIP2_Business_Blacksite_Normalize_Address.htm" />
   <HelpKINode Title="Blacksite.Note property" Url="html/P_VIP2_Business_Blacksite_Note.htm" />
   <HelpKINode Title="Blacksite.Photo_Updated_On property" Url="html/P_VIP2_Business_Blacksite_Photo_Updated_On.htm" />
   <HelpKINode Title="Blacksite.Raw_Address property" Url="html/P_VIP2_Business_Blacksite_Raw_Address.htm" />
@@ -107,23 +168,65 @@
     <HelpKINode Title="Blacklist.Blacksites Property " Url="html/P_VIP2_Business_Blacklist_Blacksites.htm" />
     <HelpKINode Title="Job_Worker.Blacksites Property " Url="html/P_VIP2_Business_Job_Worker_Blacksites.htm" />
   </HelpKINode>
+  <HelpKINode Title="Blacksite_ID property" Url="html/P_VIP2_Business_Entry_Blacksite_ID.htm" />
   <HelpKINode Title="Blacksite_Status enumeration" Url="html/T_VIP2_Business_Blacksite_Status.htm" />
   <HelpKINode Title="Business enumeration member" Url="html/T_VIP2_Business_Blacksite_Status.htm" />
   <HelpKINode Title="Checked_By property" Url="html/P_VIP2_Business_Alien_Checked_By.htm" />
+  <HelpKINode Title="City field" Url="html/F_USAddress_Components_City.htm" />
   <HelpKINode Title="City property">
     <HelpKINode Title="Address.City Property " Url="html/P_VIP2_Business_Address_City.htm" />
+    <HelpKINode Title="AddressParseResult.City Property " Url="html/P_USAddress_AddressParseResult_City.htm" />
     <HelpKINode Title="Voter.City Property " Url="html/P_VIP2_Business_Voter_City.htm" />
   </HelpKINode>
+  <HelpKINode Title="CityAndStatePattern property" Url="html/P_USAddress_AddressParser_CityAndStatePattern.htm" />
   <HelpKINode Title="Cleared_at property" Url="html/P_VIP2_Business_Job_Cleared_at.htm" />
+  <HelpKINode Title="Client class">
+    <HelpKINode Title="Client Class" Url="html/T_VIP2_Business_Client.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VIP2_Business_Client__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VIP2_Business_Client.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VIP2_Business_Client.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Client.Client constructor" Url="html/M_VIP2_Business_Client__ctor.htm" />
+  <HelpKINode Title="Client.Confirmed_At property" Url="html/P_VIP2_Business_Client_Confirmed_At.htm" />
+  <HelpKINode Title="Client.Created_At property" Url="html/P_VIP2_Business_Client_Created_At.htm" />
+  <HelpKINode Title="Client.District_ID property" Url="html/P_VIP2_Business_Client_District_ID.htm" />
+  <HelpKINode Title="Client.Email property" Url="html/P_VIP2_Business_Client_Email.htm" />
+  <HelpKINode Title="Client.ID property" Url="html/P_VIP2_Business_Client_ID.htm" />
+  <HelpKINode Title="Client.Industry property" Url="html/P_VIP2_Business_Client_Industry.htm" />
+  <HelpKINode Title="Client.Name property" Url="html/P_VIP2_Business_Client_Name.htm" />
+  <HelpKINode Title="Client.Org property" Url="html/P_VIP2_Business_Client_Org.htm" />
+  <HelpKINode Title="Client.Read_Client method" Url="html/M_VIP2_Business_Client_Read_Client.htm" />
+  <HelpKINode Title="Client.State property" Url="html/P_VIP2_Business_Client_State.htm" />
+  <HelpKINode Title="Client.Update method" Url="html/Overload_VIP2_Business_Client_Update.htm" />
+  <HelpKINode Title="CompileRegex property" Url="html/P_USAddress_AddressParser_CompileRegex.htm" />
   <HelpKINode Title="Completed_At property" Url="html/P_VIP2_Business_Job_Completed_At.htm" />
+  <HelpKINode Title="Components class">
+    <HelpKINode Title="Components Class" Url="html/T_USAddress_Components.htm" />
+    <HelpKINode Title="constructor" Url="html/M_USAddress_Components__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_USAddress_Components.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_USAddress_Components.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Components.City field" Url="html/F_USAddress_Components_City.htm" />
+  <HelpKINode Title="Components.Components constructor" Url="html/M_USAddress_Components__ctor.htm" />
+  <HelpKINode Title="Components.Number field" Url="html/F_USAddress_Components_Number.htm" />
+  <HelpKINode Title="Components.Postdirectional field" Url="html/F_USAddress_Components_Postdirectional.htm" />
+  <HelpKINode Title="Components.Predirectional field" Url="html/F_USAddress_Components_Predirectional.htm" />
+  <HelpKINode Title="Components.SecondaryNumber field" Url="html/F_USAddress_Components_SecondaryNumber.htm" />
+  <HelpKINode Title="Components.SecondaryUnit field" Url="html/F_USAddress_Components_SecondaryUnit.htm" />
+  <HelpKINode Title="Components.State field" Url="html/F_USAddress_Components_State.htm" />
+  <HelpKINode Title="Components.Street field" Url="html/F_USAddress_Components_Street.htm" />
+  <HelpKINode Title="Components.StreetLine field" Url="html/F_USAddress_Components_StreetLine.htm" />
+  <HelpKINode Title="Components.Suffix field" Url="html/F_USAddress_Components_Suffix.htm" />
+  <HelpKINode Title="Components.Zip field" Url="html/F_USAddress_Components_Zip.htm" />
   <HelpKINode Title="Confidence property" Url="html/P_VIP2_Business_Match_Confidence.htm" />
   <HelpKINode Title="Confirmed property" Url="html/P_VIP2_Business_User_Confirmed.htm" />
-  <HelpKINode Title="Confirmed_At property" Url="html/P_VIP2_Business_Job_Confirmed_At.htm" />
+  <HelpKINode Title="Confirmed_At property" Url="html/P_VIP2_Business_Client_Confirmed_At.htm" />
   <HelpKINode Title="Connection property" Url="html/P_VIP2_Business_VIP2Connection_Connection.htm" />
   <HelpKINode Title="ConnectionString property" Url="html/P_VIP2_Business_VIP2Connection_ConnectionString.htm" />
   <HelpKINode Title="County property" Url="html/P_VIP2_Business_Voter_County.htm" />
   <HelpKINode Title="Created_At property">
     <HelpKINode Title="Blacklist.Created_At Property " Url="html/P_VIP2_Business_Blacklist_Created_At.htm" />
+    <HelpKINode Title="Client.Created_At Property " Url="html/P_VIP2_Business_Client_Created_At.htm" />
     <HelpKINode Title="Job.Created_At Property " Url="html/P_VIP2_Business_Job_Created_At.htm" />
     <HelpKINode Title="Matchlist.Created_At Property " Url="html/P_VIP2_Business_Matchlist_Created_At.htm" />
   </HelpKINode>
@@ -136,8 +239,8 @@
   <HelpKINode Title="Crossmatch_Voters method" Url="html/M_VIP2_Business_Job_Worker_Crossmatch_Voters.htm" />
   <HelpKINode Title="Database property" Url="html/P_VIP2_Business_VIP2Connection_Database.htm" />
   <HelpKINode Title="Data_Date property" Url="html/P_VIP2_Business_Voter_Data_Date.htm" />
-  <HelpKINode Title="Debt property" Url="html/P_VIP2_Business_Job_Debt.htm" />
-  <HelpKINode Title="Deduplicate method" Url="html/M_VIP2_Business_Blacklist_Deduplicate.htm" />
+  <HelpKINode Title="Deduplicate method" Url="html/Overload_VIP2_Business_Blacklist_Deduplicate.htm" />
+  <HelpKINode Title="Default property" Url="html/P_USAddress_AddressParser_Default.htm" />
   <HelpKINode Title="Delete method">
     <HelpKINode Title="Alien.Delete Method " Url="html/M_VIP2_Business_Alien_Delete.htm" />
     <HelpKINode Title="Blacklist.Delete Method " Url="html/M_VIP2_Business_Blacklist_Delete.htm" />
@@ -148,12 +251,17 @@
     <HelpKINode Title="Matchlist.Delete Method " Url="html/M_VIP2_Business_Matchlist_Delete.htm" />
     <HelpKINode Title="Voter.Delete Method " Url="html/M_VIP2_Business_Voter_Delete.htm" />
   </HelpKINode>
+  <HelpKINode Title="DeleteAsync method" Url="html/M_VIP2_Business_Blacksite_DeleteAsync.htm" />
+  <HelpKINode Title="DirectionalNames property" Url="html/P_USAddress_AddressParser_DirectionalNames.htm" />
+  <HelpKINode Title="DirectionalPattern property" Url="html/P_USAddress_AddressParser_DirectionalPattern.htm" />
+  <HelpKINode Title="DistanceFromNearestPolyline method" Url="html/M_VIP2_Business_District_DistanceFromNearestPolyline.htm" />
   <HelpKINode Title="District class">
     <HelpKINode Title="District Class" Url="html/T_VIP2_Business_District.htm" />
     <HelpKINode Title="constructor" Url="html/M_VIP2_Business_District__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_VIP2_Business_District.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_VIP2_Business_District.htm" />
   </HelpKINode>
+  <HelpKINode Title="District.DistanceFromNearestPolyline method" Url="html/M_VIP2_Business_District_DistanceFromNearestPolyline.htm" />
   <HelpKINode Title="District.District constructor" Url="html/M_VIP2_Business_District__ctor.htm" />
   <HelpKINode Title="District.GeoFences property" Url="html/P_VIP2_Business_District_GeoFences.htm" />
   <HelpKINode Title="District.IsCoordinate_In_District method" Url="html/M_VIP2_Business_District_IsCoordinate_In_District.htm" />
@@ -163,25 +271,35 @@
   <HelpKINode Title="District.OGR_FID property" Url="html/P_VIP2_Business_District_OGR_FID.htm" />
   <HelpKINode Title="District.Read_District method" Url="html/M_VIP2_Business_District_Read_District.htm" />
   <HelpKINode Title="District.State property" Url="html/P_VIP2_Business_District_State.htm" />
-  <HelpKINode Title="District_ID property" Url="html/P_VIP2_Business_Job_District_ID.htm" />
+  <HelpKINode Title="District_ID property" Url="html/P_VIP2_Business_Client_District_ID.htm" />
   <HelpKINode Title="DOB property" Url="html/P_VIP2_Business_Voter_DOB.htm" />
+  <HelpKINode Title="Email property" Url="html/P_VIP2_Business_Client_Email.htm" />
   <HelpKINode Title="Entry class">
     <HelpKINode Title="Entry Class" Url="html/T_VIP2_Business_Entry.htm" />
     <HelpKINode Title="constructor" Url="html/M_VIP2_Business_Entry__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_VIP2_Business_Entry.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_VIP2_Business_Entry.htm" />
   </HelpKINode>
+  <HelpKINode Title="Entry.Blacksite_ID property" Url="html/P_VIP2_Business_Entry_Blacksite_ID.htm" />
   <HelpKINode Title="Entry.Delete method" Url="html/M_VIP2_Business_Entry_Delete.htm" />
   <HelpKINode Title="Entry.Entry constructor" Url="html/M_VIP2_Business_Entry__ctor.htm" />
   <HelpKINode Title="Entry.Get_Invalid_Addresses method" Url="html/M_VIP2_Business_Entry_Get_Invalid_Addresses.htm" />
   <HelpKINode Title="Entry.ID property" Url="html/P_VIP2_Business_Entry_ID.htm" />
   <HelpKINode Title="Entry.Insert method" Url="html/Overload_VIP2_Business_Entry_Insert.htm" />
   <HelpKINode Title="Entry.Job_ID property" Url="html/P_VIP2_Business_Entry_Job_ID.htm" />
+  <HelpKINode Title="Entry.Latitude property" Url="html/P_VIP2_Business_Entry_Latitude.htm" />
+  <HelpKINode Title="Entry.Line property" Url="html/P_VIP2_Business_Entry_Line.htm" />
+  <HelpKINode Title="Entry.Location_Error property" Url="html/P_VIP2_Business_Entry_Location_Error.htm" />
+  <HelpKINode Title="Entry.Longitude property" Url="html/P_VIP2_Business_Entry_Longitude.htm" />
+  <HelpKINode Title="Entry.Name property" Url="html/P_VIP2_Business_Entry_Name.htm" />
   <HelpKINode Title="Entry.Normalized_Address property" Url="html/P_VIP2_Business_Entry_Normalized_Address.htm" />
+  <HelpKINode Title="Entry.Parse_Line method" Url="html/M_VIP2_Business_Entry_Parse_Line.htm" />
   <HelpKINode Title="Entry.Raw_Address property" Url="html/P_VIP2_Business_Entry_Raw_Address.htm" />
   <HelpKINode Title="Entry.Read_Entries method" Url="html/M_VIP2_Business_Entry_Read_Entries.htm" />
   <HelpKINode Title="Entry.Read_Entry method" Url="html/M_VIP2_Business_Entry_Read_Entry.htm" />
+  <HelpKINode Title="Entry.Reference property" Url="html/P_VIP2_Business_Entry_Reference.htm" />
   <HelpKINode Title="Entry.Update method" Url="html/Overload_VIP2_Business_Entry_Update.htm" />
+  <HelpKINode Title="Entry.UpdateAsync method" Url="html/M_VIP2_Business_Entry_UpdateAsync.htm" />
   <HelpKINode Title="Entry.Voter_ID property" Url="html/P_VIP2_Business_Entry_Voter_ID.htm" />
   <HelpKINode Title="Entry_ID property">
     <HelpKINode Title="Alien.Entry_ID Property " Url="html/P_VIP2_Business_Alien_Entry_ID.htm" />
@@ -196,7 +314,6 @@
   <HelpKINode Title="Extensions.LStartsWith method" Url="html/M_VIP2_Business_Extensions_LStartsWith.htm" />
   <HelpKINode Title="Extensions.Street_Summary method" Url="html/M_VIP2_Business_Extensions_Street_Summary.htm" />
   <HelpKINode Title="Extensions.Zip_Code_Match method" Url="html/M_VIP2_Business_Extensions_Zip_Code_Match.htm" />
-  <HelpKINode Title="Filtered_At property" Url="html/P_VIP2_Business_Job_Filtered_At.htm" />
   <HelpKINode Title="Final_Check_ID property" Url="html/P_VIP2_Business_Match_Final_Check_ID.htm" />
   <HelpKINode Title="First_Name property" Url="html/P_VIP2_Business_Voter_First_Name.htm" />
   <HelpKINode Title="Gender property" Url="html/P_VIP2_Business_Voter_Gender.htm" />
@@ -212,6 +329,7 @@
     <HelpKINode Title="Alien.ID Property " Url="html/P_VIP2_Business_Alien_ID.htm" />
     <HelpKINode Title="Blacklist.ID Property " Url="html/P_VIP2_Business_Blacklist_ID.htm" />
     <HelpKINode Title="Blacksite.ID Property " Url="html/P_VIP2_Business_Blacksite_ID.htm" />
+    <HelpKINode Title="Client.ID Property " Url="html/P_VIP2_Business_Client_ID.htm" />
     <HelpKINode Title="Entry.ID Property " Url="html/P_VIP2_Business_Entry_ID.htm" />
     <HelpKINode Title="Job.ID Property " Url="html/P_VIP2_Business_Job_ID.htm" />
     <HelpKINode Title="Match.ID Property " Url="html/P_VIP2_Business_Match_ID.htm" />
@@ -219,7 +337,7 @@
     <HelpKINode Title="User.ID Property " Url="html/P_VIP2_Business_User_ID.htm" />
     <HelpKINode Title="Voter.ID Property " Url="html/P_VIP2_Business_Voter_ID.htm" />
   </HelpKINode>
-  <HelpKINode Title="Industry property" Url="html/P_VIP2_Business_Job_Industry.htm" />
+  <HelpKINode Title="Industry property" Url="html/P_VIP2_Business_Client_Industry.htm" />
   <HelpKINode Title="Insert method">
     <HelpKINode Title="Alien.Insert Method " Url="html/Overload_VIP2_Business_Alien_Insert.htm" />
     <HelpKINode Title="Blacklist.Insert Method " Url="html/Overload_VIP2_Business_Blacklist_Insert.htm" />
@@ -230,6 +348,11 @@
     <HelpKINode Title="Matchlist.Insert Method " Url="html/Overload_VIP2_Business_Matchlist_Insert.htm" />
     <HelpKINode Title="Voter.Insert Method " Url="html/Overload_VIP2_Business_Voter_Insert.htm" />
   </HelpKINode>
+  <HelpKINode Title="InsertAsync method">
+    <HelpKINode Title="Alien.InsertAsync Method " Url="html/M_VIP2_Business_Alien_InsertAsync.htm" />
+    <HelpKINode Title="Match.InsertAsync Method " Url="html/M_VIP2_Business_Match_InsertAsync.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Insert_Command method" Url="html/M_VIP2_Business_Match_Insert_Command.htm" />
   <HelpKINode Title="Insert_Entry_Matches method" Url="html/M_VIP2_Business_Job_Worker_Insert_Entry_Matches.htm" />
   <HelpKINode Title="Insert_Voter_Matches method" Url="html/M_VIP2_Business_Job_Worker_Insert_Voter_Matches.htm" />
   <HelpKINode Title="Invalidated_By property" Url="html/P_VIP2_Business_Blacksite_Invalidated_By.htm" />
@@ -248,24 +371,18 @@
   <HelpKINode Title="Job property" Url="html/P_VIP2_Business_Job_Worker_Job.htm" />
   <HelpKINode Title="Job.Cleared_at property" Url="html/P_VIP2_Business_Job_Cleared_at.htm" />
   <HelpKINode Title="Job.Completed_At property" Url="html/P_VIP2_Business_Job_Completed_At.htm" />
-  <HelpKINode Title="Job.Confirmed_At property" Url="html/P_VIP2_Business_Job_Confirmed_At.htm" />
   <HelpKINode Title="Job.Created_At property" Url="html/P_VIP2_Business_Job_Created_At.htm" />
   <HelpKINode Title="Job.Created_By property" Url="html/P_VIP2_Business_Job_Created_By.htm" />
-  <HelpKINode Title="Job.Debt property" Url="html/P_VIP2_Business_Job_Debt.htm" />
   <HelpKINode Title="Job.Delete method" Url="html/M_VIP2_Business_Job_Delete.htm" />
-  <HelpKINode Title="Job.District_ID property" Url="html/P_VIP2_Business_Job_District_ID.htm" />
-  <HelpKINode Title="Job.Filtered_At property" Url="html/P_VIP2_Business_Job_Filtered_At.htm" />
   <HelpKINode Title="Job.Gratis property" Url="html/P_VIP2_Business_Job_Gratis.htm" />
   <HelpKINode Title="Job.ID property" Url="html/P_VIP2_Business_Job_ID.htm" />
-  <HelpKINode Title="Job.Industry property" Url="html/P_VIP2_Business_Job_Industry.htm" />
   <HelpKINode Title="Job.Insert method" Url="html/M_VIP2_Business_Job_Insert.htm" />
   <HelpKINode Title="Job.Job constructor" Url="html/M_VIP2_Business_Job__ctor.htm" />
   <HelpKINode Title="Job.Key property" Url="html/P_VIP2_Business_Job_Key.htm" />
   <HelpKINode Title="Job.Name property" Url="html/P_VIP2_Business_Job_Name.htm" />
-  <HelpKINode Title="Job.Org property" Url="html/P_VIP2_Business_Job_Org.htm" />
   <HelpKINode Title="Job.Read_Job method" Url="html/M_VIP2_Business_Job_Read_Job.htm" />
-  <HelpKINode Title="Job.Read_Jobs method" Url="html/M_VIP2_Business_Job_Read_Jobs.htm" />
-  <HelpKINode Title="Job.State property" Url="html/P_VIP2_Business_Job_State.htm" />
+  <HelpKINode Title="Job.Read_Open_Jobs method" Url="html/M_VIP2_Business_Job_Read_Open_Jobs.htm" />
+  <HelpKINode Title="Job.Screened_At property" Url="html/P_VIP2_Business_Job_Screened_At.htm" />
   <HelpKINode Title="Job.Update method" Url="html/Overload_VIP2_Business_Job_Update.htm" />
   <HelpKINode Title="Job_ID property">
     <HelpKINode Title="Entry.Job_ID Property " Url="html/P_VIP2_Business_Entry_Job_ID.htm" />
@@ -290,8 +407,12 @@
   <HelpKINode Title="Key property" Url="html/P_VIP2_Business_Job_Key.htm" />
   <HelpKINode Title="Kind property" Url="html/P_VIP2_Business_Blacklist_Kind.htm" />
   <HelpKINode Title="Last_Name property" Url="html/P_VIP2_Business_Voter_Last_Name.htm" />
+  <HelpKINode Title="Latitude property" Url="html/P_VIP2_Business_Entry_Latitude.htm" />
   <HelpKINode Title="Levenshtein enumeration member" Url="html/T_VIP2_Business_Match_Method.htm" />
+  <HelpKINode Title="Line property" Url="html/P_VIP2_Business_Entry_Line.htm" />
   <HelpKINode Title="List_ID property" Url="html/P_VIP2_Business_Blacksite_List_ID.htm" />
+  <HelpKINode Title="Location_Error property" Url="html/P_VIP2_Business_Entry_Location_Error.htm" />
+  <HelpKINode Title="Longitude property" Url="html/P_VIP2_Business_Entry_Longitude.htm" />
   <HelpKINode Title="LStartsWith method" Url="html/M_VIP2_Business_Extensions_LStartsWith.htm" />
   <HelpKINode Title="MailOnly enumeration member" Url="html/T_VIP2_Business_Blacksite_Status.htm" />
   <HelpKINode Title="Mail_1 property" Url="html/P_VIP2_Business_Voter_Mail_1.htm" />
@@ -310,6 +431,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_VIP2_Business_Match.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_VIP2_Business_Match.htm" />
   </HelpKINode>
+  <HelpKINode Title="Match.Algorithm property" Url="html/P_VIP2_Business_Match_Algorithm.htm" />
   <HelpKINode Title="Match.Blacklisted_ID property" Url="html/P_VIP2_Business_Match_Blacklisted_ID.htm" />
   <HelpKINode Title="Match.Confidence property" Url="html/P_VIP2_Business_Match_Confidence.htm" />
   <HelpKINode Title="Match.Delete method" Url="html/M_VIP2_Business_Match_Delete.htm" />
@@ -317,6 +439,8 @@
   <HelpKINode Title="Match.Final_Check_ID property" Url="html/P_VIP2_Business_Match_Final_Check_ID.htm" />
   <HelpKINode Title="Match.ID property" Url="html/P_VIP2_Business_Match_ID.htm" />
   <HelpKINode Title="Match.Insert method" Url="html/M_VIP2_Business_Match_Insert.htm" />
+  <HelpKINode Title="Match.InsertAsync method" Url="html/M_VIP2_Business_Match_InsertAsync.htm" />
+  <HelpKINode Title="Match.Insert_Command method" Url="html/M_VIP2_Business_Match_Insert_Command.htm" />
   <HelpKINode Title="Match.Match constructor" Url="html/M_VIP2_Business_Match__ctor.htm" />
   <HelpKINode Title="Match.Matching_ID property" Url="html/P_VIP2_Business_Match_Matching_ID.htm" />
   <HelpKINode Title="Match.Read_Match method" Url="html/M_VIP2_Business_Match_Read_Match.htm" />
@@ -346,6 +470,7 @@
   <HelpKINode Title="Matchlist.Read_Matchlists method" Url="html/M_VIP2_Business_Matchlist_Read_Matchlists.htm" />
   <HelpKINode Title="Matchlist.Update method" Url="html/Overload_VIP2_Business_Matchlist_Update.htm" />
   <HelpKINode Title="Matchlists property" Url="html/P_VIP2_Business_Job_Worker_Matchlists.htm" />
+  <HelpKINode Title="MatchOptions property" Url="html/P_USAddress_AddressParser_MatchOptions.htm" />
   <HelpKINode Title="Match_Method enumeration" Url="html/T_VIP2_Business_Match_Method.htm" />
   <HelpKINode Title="Middle_Name property" Url="html/P_VIP2_Business_Voter_Middle_Name.htm" />
   <HelpKINode Title="Mixed enumeration member" Url="html/T_VIP2_Business_Blacksite_Status.htm" />
@@ -353,7 +478,9 @@
   <HelpKINode Title="Name property">
     <HelpKINode Title="Blacklist.Name Property " Url="html/P_VIP2_Business_Blacklist_Name.htm" />
     <HelpKINode Title="Blacksite.Name Property " Url="html/P_VIP2_Business_Blacksite_Name.htm" />
+    <HelpKINode Title="Client.Name Property " Url="html/P_VIP2_Business_Client_Name.htm" />
     <HelpKINode Title="District.Name Property " Url="html/P_VIP2_Business_District_Name.htm" />
+    <HelpKINode Title="Entry.Name Property " Url="html/P_VIP2_Business_Entry_Name.htm" />
     <HelpKINode Title="Job.Name Property " Url="html/P_VIP2_Business_Job_Name.htm" />
   </HelpKINode>
   <HelpKINode Title="NonExistent enumeration member" Url="html/T_VIP2_Business_Blacksite_Status.htm" />
@@ -362,13 +489,22 @@
     <HelpKINode Title="Entry.Normalized_Address Property " Url="html/P_VIP2_Business_Entry_Normalized_Address.htm" />
     <HelpKINode Title="Voter.Normalized_Address Property " Url="html/P_VIP2_Business_Voter_Normalized_Address.htm" />
   </HelpKINode>
+  <HelpKINode Title="Normalize_Address method" Url="html/M_VIP2_Business_Blacksite_Normalize_Address.htm" />
   <HelpKINode Title="Note property" Url="html/P_VIP2_Business_Blacksite_Note.htm" />
-  <HelpKINode Title="Number property" Url="html/P_VIP2_Business_Address_Number.htm" />
+  <HelpKINode Title="Number field" Url="html/F_USAddress_Components_Number.htm" />
+  <HelpKINode Title="Number property">
+    <HelpKINode Title="Address.Number Property " Url="html/P_VIP2_Business_Address_Number.htm" />
+    <HelpKINode Title="AddressParseResult.Number Property " Url="html/P_USAddress_AddressParseResult_Number.htm" />
+  </HelpKINode>
   <HelpKINode Title="Office property" Url="html/P_VIP2_Business_Blacklist_Kind_Office.htm" />
   <HelpKINode Title="OGR_FID property" Url="html/P_VIP2_Business_District_OGR_FID.htm" />
-  <HelpKINode Title="Org property" Url="html/P_VIP2_Business_Job_Org.htm" />
+  <HelpKINode Title="Org property" Url="html/P_VIP2_Business_Client_Org.htm" />
   <HelpKINode Title="Other property" Url="html/P_VIP2_Business_Blacklist_Kind_Other.htm" />
+  <HelpKINode Title="ParseAddress method" Url="html/Overload_USAddress_AddressParser_ParseAddress.htm" />
+  <HelpKINode Title="ParseAddressLine method" Url="html/M_USAddress_AddressParser_ParseAddressLine.htm" />
+  <HelpKINode Title="Parse_Line method" Url="html/M_VIP2_Business_Entry_Parse_Line.htm" />
   <HelpKINode Title="Photo_Updated_On property" Url="html/P_VIP2_Business_Blacksite_Photo_Updated_On.htm" />
+  <HelpKINode Title="PlacePattern property" Url="html/P_USAddress_AddressParser_PlacePattern.htm" />
   <HelpKINode Title="Plot structure">
     <HelpKINode Title="Plot Structure" Url="html/T_VIP2_Business_Models_Plot.htm" />
     <HelpKINode Title="constructor" Url="html/M_VIP2_Business_Models_Plot__ctor.htm" />
@@ -387,10 +523,16 @@
   <HelpKINode Title="Plots.Plots constructor" Url="html/M_VIP2_Business_Models_Plots__ctor.htm" />
   <HelpKINode Title="Plots.Plot_List property" Url="html/P_VIP2_Business_Models_Plots_Plot_List.htm" />
   <HelpKINode Title="Plot_List property" Url="html/P_VIP2_Business_Models_Plots_Plot_List.htm" />
+  <HelpKINode Title="PostalBoxPattern property" Url="html/P_USAddress_AddressParser_PostalBoxPattern.htm" />
+  <HelpKINode Title="PostalBoxPatternAddressLineOnly property" Url="html/P_USAddress_AddressParser_PostalBoxPatternAddressLineOnly.htm" />
+  <HelpKINode Title="Postdirectional field" Url="html/F_USAddress_Components_Postdirectional.htm" />
   <HelpKINode Title="PostDirectional property" Url="html/P_VIP2_Business_Address_PostDirectional.htm" />
+  <HelpKINode Title="Postdirectional property" Url="html/P_USAddress_AddressParseResult_Postdirectional.htm" />
   <HelpKINode Title="Post_Ship property" Url="html/P_VIP2_Business_Blacklist_Kind_Post_Ship.htm" />
   <HelpKINode Title="Precinct_Ward property" Url="html/P_VIP2_Business_Voter_Precinct_Ward.htm" />
+  <HelpKINode Title="Predirectional field" Url="html/F_USAddress_Components_Predirectional.htm" />
   <HelpKINode Title="PreDirectional property" Url="html/P_VIP2_Business_Address_PreDirectional.htm" />
+  <HelpKINode Title="Predirectional property" Url="html/P_USAddress_AddressParseResult_Predirectional.htm" />
   <HelpKINode Title="Query_Result class">
     <HelpKINode Title="Query_Result Class" Url="html/T_VIP2_Business_Query_Result.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_VIP2_Business_Query_Result.htm" />
@@ -400,6 +542,10 @@
   <HelpKINode Title="Query_Result.Error_Message property" Url="html/P_VIP2_Business_Query_Result_Error_Message.htm" />
   <HelpKINode Title="Query_Result.Result property" Url="html/P_VIP2_Business_Query_Result_Result.htm" />
   <HelpKINode Title="Query_Result.Successful property" Url="html/P_VIP2_Business_Query_Result_Successful.htm" />
+  <HelpKINode Title="RangedSecondaryUnitPattern property" Url="html/P_USAddress_AddressParser_RangedSecondaryUnitPattern.htm" />
+  <HelpKINode Title="RangedUnits property" Url="html/P_USAddress_AddressParser_RangedUnits.htm" />
+  <HelpKINode Title="RangelessSecondaryUnitPattern property" Url="html/P_USAddress_AddressParser_RangelessSecondaryUnitPattern.htm" />
+  <HelpKINode Title="RangelessUnits property" Url="html/P_USAddress_AddressParser_RangelessUnits.htm" />
   <HelpKINode Title="Raw_Address property">
     <HelpKINode Title="Blacksite.Raw_Address Property " Url="html/P_VIP2_Business_Blacksite_Raw_Address.htm" />
     <HelpKINode Title="Entry.Raw_Address Property " Url="html/P_VIP2_Business_Entry_Raw_Address.htm" />
@@ -410,50 +556,82 @@
   <HelpKINode Title="Read_Blacklists method" Url="html/M_VIP2_Business_Blacklist_Read_Blacklists.htm" />
   <HelpKINode Title="Read_Blacksite method" Url="html/M_VIP2_Business_Blacksite_Read_Blacksite.htm" />
   <HelpKINode Title="Read_Blacksites method" Url="html/M_VIP2_Business_Blacksite_Read_Blacksites.htm" />
+  <HelpKINode Title="Read_Client method" Url="html/M_VIP2_Business_Client_Read_Client.htm" />
   <HelpKINode Title="Read_District method" Url="html/M_VIP2_Business_District_Read_District.htm" />
   <HelpKINode Title="Read_Entries method" Url="html/M_VIP2_Business_Entry_Read_Entries.htm" />
   <HelpKINode Title="Read_Entry method" Url="html/M_VIP2_Business_Entry_Read_Entry.htm" />
   <HelpKINode Title="Read_Job method" Url="html/M_VIP2_Business_Job_Read_Job.htm" />
-  <HelpKINode Title="Read_Jobs method" Url="html/M_VIP2_Business_Job_Read_Jobs.htm" />
   <HelpKINode Title="Read_Match method" Url="html/M_VIP2_Business_Match_Read_Match.htm" />
   <HelpKINode Title="Read_Matches method" Url="html/M_VIP2_Business_Match_Read_Matches.htm" />
   <HelpKINode Title="Read_Matchlist method" Url="html/M_VIP2_Business_Matchlist_Read_Matchlist.htm" />
   <HelpKINode Title="Read_Matchlists method" Url="html/M_VIP2_Business_Matchlist_Read_Matchlists.htm" />
+  <HelpKINode Title="Read_Open_Jobs method" Url="html/M_VIP2_Business_Job_Read_Open_Jobs.htm" />
   <HelpKINode Title="Read_User method" Url="html/M_VIP2_Business_User_Read_User.htm" />
   <HelpKINode Title="Read_Users method" Url="html/M_VIP2_Business_User_Read_Users.htm" />
   <HelpKINode Title="Read_Voter method" Url="html/M_VIP2_Business_Voter_Read_Voter.htm" />
   <HelpKINode Title="Read_Voters method" Url="html/M_VIP2_Business_Voter_Read_Voters.htm" />
+  <HelpKINode Title="Reference property" Url="html/P_VIP2_Business_Entry_Reference.htm" />
+  <HelpKINode Title="RegexMatch property" Url="html/P_USAddress_AddressParseResult_RegexMatch.htm" />
   <HelpKINode Title="Registration_Date property" Url="html/P_VIP2_Business_Voter_Registration_Date.htm" />
   <HelpKINode Title="Reg_State property" Url="html/P_VIP2_Business_Voter_Reg_State.htm" />
   <HelpKINode Title="Residential enumeration member" Url="html/T_VIP2_Business_Blacksite_Status.htm" />
   <HelpKINode Title="Result property" Url="html/P_VIP2_Business_Query_Result_Result.htm" />
   <HelpKINode Title="Score property" Url="html/P_VIP2_Business_Match_Score.htm" />
-  <HelpKINode Title="SecondaryNumber property" Url="html/P_VIP2_Business_Address_SecondaryNumber.htm" />
-  <HelpKINode Title="SecondaryUnit property" Url="html/P_VIP2_Business_Address_SecondaryUnit.htm" />
+  <HelpKINode Title="Screened_At property" Url="html/P_VIP2_Business_Job_Screened_At.htm" />
+  <HelpKINode Title="SecondaryNumber field" Url="html/F_USAddress_Components_SecondaryNumber.htm" />
+  <HelpKINode Title="SecondaryNumber property">
+    <HelpKINode Title="Address.SecondaryNumber Property " Url="html/P_VIP2_Business_Address_SecondaryNumber.htm" />
+    <HelpKINode Title="AddressParseResult.SecondaryNumber Property " Url="html/P_USAddress_AddressParseResult_SecondaryNumber.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SecondaryUnit field" Url="html/F_USAddress_Components_SecondaryUnit.htm" />
+  <HelpKINode Title="SecondaryUnit property">
+    <HelpKINode Title="Address.SecondaryUnit Property " Url="html/P_VIP2_Business_Address_SecondaryUnit.htm" />
+    <HelpKINode Title="AddressParseResult.SecondaryUnit Property " Url="html/P_USAddress_AddressParseResult_SecondaryUnit.htm" />
+  </HelpKINode>
   <HelpKINode Title="Standard enumeration member" Url="html/T_VIP2_Business_Match_Method.htm" />
+  <HelpKINode Title="State field" Url="html/F_USAddress_Components_State.htm" />
   <HelpKINode Title="State property">
     <HelpKINode Title="Address.State Property " Url="html/P_VIP2_Business_Address_State.htm" />
+    <HelpKINode Title="AddressParseResult.State Property " Url="html/P_USAddress_AddressParseResult_State.htm" />
     <HelpKINode Title="Blacklist.State Property " Url="html/P_VIP2_Business_Blacklist_State.htm" />
+    <HelpKINode Title="Client.State Property " Url="html/P_VIP2_Business_Client_State.htm" />
     <HelpKINode Title="District.State Property " Url="html/P_VIP2_Business_District_State.htm" />
-    <HelpKINode Title="Job.State Property " Url="html/P_VIP2_Business_Job_State.htm" />
     <HelpKINode Title="Voter.State Property " Url="html/P_VIP2_Business_Voter_State.htm" />
   </HelpKINode>
+  <HelpKINode Title="StatePattern property" Url="html/P_USAddress_AddressParser_StatePattern.htm" />
+  <HelpKINode Title="StatesAndProvinces property" Url="html/P_USAddress_AddressParser_StatesAndProvinces.htm" />
   <HelpKINode Title="Status property" Url="html/P_VIP2_Business_Blacksite_Status.htm" />
   <HelpKINode Title="Storage property" Url="html/P_VIP2_Business_Blacklist_Kind_Storage.htm" />
-  <HelpKINode Title="Street property" Url="html/P_VIP2_Business_Address_Street.htm" />
+  <HelpKINode Title="Street field" Url="html/F_USAddress_Components_Street.htm" />
+  <HelpKINode Title="Street property">
+    <HelpKINode Title="Address.Street Property " Url="html/P_VIP2_Business_Address_Street.htm" />
+    <HelpKINode Title="AddressParseResult.Street Property " Url="html/P_USAddress_AddressParseResult_Street.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StreetLine field" Url="html/F_USAddress_Components_StreetLine.htm" />
   <HelpKINode Title="StreetLine method" Url="html/M_VIP2_Business_Address_StreetLine.htm" />
+  <HelpKINode Title="StreetLine property" Url="html/P_USAddress_AddressParseResult_StreetLine.htm" />
+  <HelpKINode Title="StreetPattern property" Url="html/P_USAddress_AddressParser_StreetPattern.htm" />
+  <HelpKINode Title="StreetSuffixes property" Url="html/P_USAddress_AddressParser_StreetSuffixes.htm" />
   <HelpKINode Title="StreetSummary method" Url="html/M_VIP2_Business_Address_StreetSummary.htm" />
   <HelpKINode Title="Street_Summary method" Url="html/M_VIP2_Business_Extensions_Street_Summary.htm" />
   <HelpKINode Title="Successful property" Url="html/P_VIP2_Business_Query_Result_Successful.htm" />
+  <HelpKINode Title="Suffix field" Url="html/F_USAddress_Components_Suffix.htm" />
   <HelpKINode Title="Suffix property">
     <HelpKINode Title="Address.Suffix Property " Url="html/P_VIP2_Business_Address_Suffix.htm" />
+    <HelpKINode Title="AddressParseResult.Suffix Property " Url="html/P_USAddress_AddressParseResult_Suffix.htm" />
     <HelpKINode Title="Voter.Suffix Property " Url="html/P_VIP2_Business_Voter_Suffix.htm" />
   </HelpKINode>
-  <HelpKINode Title="ToString method" Url="html/M_VIP2_Business_Address_ToString.htm" />
+  <HelpKINode Title="SuffixPattern property" Url="html/P_USAddress_AddressParser_SuffixPattern.htm" />
+  <HelpKINode Title="ToString method">
+    <HelpKINode Title="Address.ToString Method " Url="html/M_VIP2_Business_Address_ToString.htm" />
+    <HelpKINode Title="AddressParseResult.ToString Method " Url="html/M_USAddress_AddressParseResult_ToString.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToSummaryString method" Url="html/M_VIP2_Business_Address_ToSummaryString.htm" />
   <HelpKINode Title="Update method">
     <HelpKINode Title="Alien.Update Method " Url="html/Overload_VIP2_Business_Alien_Update.htm" />
     <HelpKINode Title="Blacklist.Update Method " Url="html/Overload_VIP2_Business_Blacklist_Update.htm" />
     <HelpKINode Title="Blacksite.Update Method " Url="html/Overload_VIP2_Business_Blacksite_Update.htm" />
+    <HelpKINode Title="Client.Update Method " Url="html/Overload_VIP2_Business_Client_Update.htm" />
     <HelpKINode Title="Entry.Update Method " Url="html/Overload_VIP2_Business_Entry_Update.htm" />
     <HelpKINode Title="Job.Update Method " Url="html/Overload_VIP2_Business_Job_Update.htm" />
     <HelpKINode Title="Match.Update Method " Url="html/Overload_VIP2_Business_Match_Update.htm" />
@@ -461,6 +639,11 @@
     <HelpKINode Title="User.Update Method " Url="html/Overload_VIP2_Business_User_Update.htm" />
     <HelpKINode Title="Voter.Update Method " Url="html/Overload_VIP2_Business_Voter_Update.htm" />
   </HelpKINode>
+  <HelpKINode Title="UpdateAsync method" Url="html/M_VIP2_Business_Entry_UpdateAsync.htm" />
+  <HelpKINode Title="USAddress namespace" Url="html/N_USAddress.htm" />
+  <HelpKINode Title="USAddress.AddressParser class" Url="html/T_USAddress_AddressParser.htm" />
+  <HelpKINode Title="USAddress.AddressParseResult class" Url="html/T_USAddress_AddressParseResult.htm" />
+  <HelpKINode Title="USAddress.Components class" Url="html/T_USAddress_Components.htm" />
   <HelpKINode Title="User class">
     <HelpKINode Title="User Class" Url="html/T_VIP2_Business_User.htm" />
     <HelpKINode Title="constructor" Url="html/M_VIP2_Business_User__ctor.htm" />
@@ -487,6 +670,7 @@
   <HelpKINode Title="VIP2.Business.Blacklist_Kind class" Url="html/T_VIP2_Business_Blacklist_Kind.htm" />
   <HelpKINode Title="VIP2.Business.Blacksite class" Url="html/T_VIP2_Business_Blacksite.htm" />
   <HelpKINode Title="VIP2.Business.Blacksite_Status enumeration" Url="html/T_VIP2_Business_Blacksite_Status.htm" />
+  <HelpKINode Title="VIP2.Business.Client class" Url="html/T_VIP2_Business_Client.htm" />
   <HelpKINode Title="VIP2.Business.District class" Url="html/T_VIP2_Business_District.htm" />
   <HelpKINode Title="VIP2.Business.Entry class" Url="html/T_VIP2_Business_Entry.htm" />
   <HelpKINode Title="VIP2.Business.Extensions class" Url="html/T_VIP2_Business_Extensions.htm" />
@@ -569,10 +753,13 @@
   <HelpKINode Title="Weight property" Url="html/P_VIP2_Business_User_Weight.htm" />
   <HelpKINode Title="X property" Url="html/P_VIP2_Business_Models_Plot_X.htm" />
   <HelpKINode Title="Y property" Url="html/P_VIP2_Business_Models_Plot_Y.htm" />
+  <HelpKINode Title="Zip field" Url="html/F_USAddress_Components_Zip.htm" />
   <HelpKINode Title="Zip property">
     <HelpKINode Title="Address.Zip Property " Url="html/P_VIP2_Business_Address_Zip.htm" />
+    <HelpKINode Title="AddressParseResult.Zip Property " Url="html/P_USAddress_AddressParseResult_Zip.htm" />
     <HelpKINode Title="Voter.Zip Property " Url="html/P_VIP2_Business_Voter_Zip.htm" />
   </HelpKINode>
+  <HelpKINode Title="ZipPattern property" Url="html/P_USAddress_AddressParser_ZipPattern.htm" />
   <HelpKINode Title="Zip_Code_Match method" Url="html/M_VIP2_Business_Extensions_Zip_Code_Match.htm" />
   <HelpKINode Title="Zip_Full property" Url="html/P_VIP2_Business_Address_Zip_Full.htm" />
 </HelpKI>
